@@ -1,0 +1,1001 @@
+num,date,cheveux,age,exp,salaire,sexe,diplome,specialite,note,dispo,embauche,paises
+0,2012-06-02,roux,25.0,9.0,26803.0,F,licence,geologie,97.08,non,0,Laos;Cuba;Philippines
+1,2011-04-21,blond,35.0,13.0,38166.0,M,licence,forage,63.86,non,0,Canada;Zambia;China
+2,2012-09-07,blond,29.0,13.0,35207.0,M,licence,geologie,78.5,non,0,Poland;Peru;Poland
+3,2011-07-01,brun,23.0,12.0,32442.0,M,licence,geologie,45.09,non,0,Hungary;Bosnia and Herzegovina;Poland
+4,2012-08-07,roux,35.0,6.0,28533.0,F,licence,detective,81.91,non,0,China;Venezuela;Mexico
+5,2014-02-12,chatain,37.0,8.0,38558.0,M,master,geologie,63.46,non,1,Thailand;Brazil;Botswana
+6,2013-11-11,brun,33.0,12.0,39476.0,M,master,geologie,50.2,oui,0,Chile;Poland;Honduras
+7,2012-03-10,roux,31.0,10.0,42392.0,M,licence,forage,62.2,oui,0,Indonesia;Paraguay;Brazil
+8,2014-10-17,chatain,43.0,10.0,28625.0,M,doctorat,geologie,65.17,non,1,Czech Republic;Indonesia;Armenia
+9,2011-06-04,chatain,28.0,11.0,32454.0,M,master,forage,66.93,non,1,Sweden;Egypt;Bolivia
+10,2014-08-06,brun,50.0,12.0,38516.0,F,licence,geologie,58.93,non,0,Germany;Haiti;China
+11,2010-04-22,blond,43.0,8.0,38719.0,M,master,archeologie,80.07,oui,0,China;Colombia;Indonesia
+12,2011-10-23,brun,44.0,9.0,28688.0,M,doctorat,forage,115.76,oui,0,Japan;Argentina;Brazil
+13,2014-06-25,brun,39.0,4.0,30822.0,F,licence,geologie,66.85,non,0,Armenia;Russia;Poland
+14,2011-10-15,roux,23.0,14.0,33882.0,M,licence,geologie,61.46,non,0,China;Japan;China
+15,2010-07-12,brun,38.0,3.0,40889.0,M,master,geologie,62.85,oui,0,Ukraine;China;Nepal
+16,2012-02-05,brun,31.0,10.0,28507.0,M,doctorat,forage,104.26,oui,0,Russia;Peru;Indonesia
+17,2010-07-03,blond,37.0,13.0,41512.0,M,bac,geologie,55.91,non,0,Tunisia;China;Argentina
+18,2010-07-21,blond,35.0,14.0,30359.0,M,licence,geologie,94.58,non,0,Thailand;Indonesia;Estonia
+19,2014-07-22,chatain,44.0,8.0,28956.0,M,master,geologie,74.82,non,0,China;China;Brazil
+20,2010-02-12,brun,31.0,12.0,34483.0,M,master,forage,66.27,oui,0,Philippines;China;Portugal
+21,2014-05-22,chatain,30.0,10.0,39069.0,F,licence,forage,65.19,non,0,China;Morocco;Yemen
+22,2010-01-04,brun,39.0,13.0,34632.0,M,master,geologie,81.35,non,0,Indonesia;Philippines;Bulgaria
+23,2012-03-20,brun,31.0,8.0,41582.0,M,licence,geologie,58.94,non,0,Indonesia;Poland;Indonesia
+24,2012-01-16,blond,35.0,8.0,30782.0,F,licence,geologie,90.31,non,0,Ecuador;Spain;Ghana
+25,2014-05-13,chatain,31.0,12.0,33238.0,F,master,detective,70.39,non,0,Czech Republic;Indonesia;Argentina
+26,2013-04-12,brun,33.0,8.0,,F,licence,detective,56.99,non,0,Sweden;China;Indonesia
+27,2013-06-18,brun,42.0,8.0,30641.0,F,licence,geologie,78.89,non,0,Russia;Finland;Slovenia
+28,2010-01-02,chatain,27.0,13.0,31505.0,F,master,archeologie,88.33,non,0,Japan;Brazil;Slovenia
+29,2010-07-25,chatain,19.0,9.0,31357.0,M,doctorat,detective,88.69,oui,0,Portugal;Greece;Norway
+30,2010-03-21,brun,19.0,4.0,39031.0,M,master,geologie,57.48,oui,0,Colombia;Brazil;Czech Republic
+31,2014-05-29,chatain,40.0,13.0,37495.0,M,doctorat,geologie,80.86,oui,0,China;Argentina;Russia
+32,2012-02-05,chatain,43.0,7.0,37579.0,M,doctorat,geologie,91.15,oui,0,Brazil;China;Indonesia
+33,2012-09-03,blond,28.0,13.0,34485.0,F,licence,forage,76.94,non,0,Indonesia;Portugal;China
+34,2010-06-21,blond,38.0,6.0,41909.0,M,licence,geologie,87.76,oui,1,Morocco;Russia;Honduras
+35,2011-11-04,chatain,43.0,8.0,46245.0,M,licence,geologie,49.39,non,0,Serbia;Brazil;Indonesia
+36,2010-08-01,brun,49.0,8.0,38020.0,M,master,forage,60.63,oui,0,Albania;China;Vietnam
+37,2013-01-10,brun,26.0,11.0,31759.0,F,master,forage,102.66,non,1,Indonesia;China;South Korea
+38,2013-06-14,blond,59.0,7.0,40397.0,M,licence,forage,60.42,oui,0,China;Czech Republic;France
+39,2014-11-08,chatain,37.0,6.0,27002.0,M,master,forage,55.83,non,1,Costa Rica;China;Russia
+40,2013-04-23,brun,41.0,8.0,34359.0,F,bac,geologie,56.41,non,0,China;Portugal;Germany
+41,2014-09-07,blond,34.0,15.0,36295.0,M,licence,geologie,81.06,oui,0,United States;China;Brazil
+42,2012-04-28,chatain,25.0,9.0,34640.0,F,master,detective,73.96,non,0,Greece;Sweden;China
+43,2013-09-29,chatain,24.0,9.0,44710.0,M,bac,geologie,29.97,non,0,Fiji;Philippines;China
+44,2014-12-11,brun,16.0,7.0,29858.0,M,master,geologie,76.18,non,0,Thailand;China;Indonesia
+45,2014-12-27,brun,36.0,8.0,36653.0,F,licence,detective,74.47,non,0,Indonesia;Iran;China
+46,2010-02-18,chatain,43.0,5.0,42337.0,F,licence,detective,57.33,non,1,Mongolia;China;Ukraine
+47,2014-06-07,chatain,38.0,11.0,39854.0,F,doctorat,archeologie,73.22,oui,0,China;China;Brazil
+48,2011-03-18,blond,37.0,9.0,32154.0,F,master,forage,102.95,oui,0,Brazil;North Korea;Brazil
+49,2010-08-03,chatain,26.0,10.0,36792.0,F,doctorat,detective,99.05,oui,0,Indonesia;Portugal;Chile
+50,2011-07-03,chatain,25.0,8.0,25575.0,M,doctorat,geologie,108.81,oui,0,South Africa;Iran;France
+51,2014-01-10,roux,29.0,9.0,34962.0,M,bac,geologie,36.92,non,0,Chile;East Timor;Philippines
+52,2010-05-23,blond,48.0,14.0,41311.0,F,licence,geologie,77.58,non,1,South Korea;Russia;South Africa
+53,2012-07-18,chatain,47.0,10.0,32617.0,F,master,detective,84.29,non,0,China;Indonesia;Sweden
+54,2013-03-17,chatain,53.0,11.0,36032.0,M,doctorat,detective,92.16,oui,0,Brazil;China;Samoa
+55,2010-12-13,brun,48.0,5.0,39932.0,F,licence,detective,65.51,non,1,China;Brazil;China
+56,2014-11-27,chatain,33.0,15.0,32322.0,F,doctorat,geologie,103.35,oui,0,Netherlands;Portugal;Indonesia
+57,2014-06-24,roux,36.0,14.0,38843.0,M,licence,detective,68.82,oui,0,France;Sweden;Tanzania
+58,2011-01-01,brun,23.0,6.0,40244.0,F,master,archeologie,93.1,oui,0,China;Philippines;China
+59,2010-04-05,chatain,,9.0,40992.0,F,master,archeologie,79.33,oui,0,Kazakhstan;Azerbaijan;Colombia
+60,2010-11-03,brun,25.0,11.0,25405.0,F,doctorat,detective,81.24,non,0,Philippines;Syria;Palestinian Territory
+61,2013-06-12,brun,20.0,8.0,40900.0,M,licence,geologie,61.91,non,0,Indonesia;China;China
+62,2014-08-02,chatain,41.0,7.0,22335.0,M,doctorat,geologie,83.08,non,0,Indonesia;Israel;Iran
+63,2011-09-03,blond,31.0,16.0,35113.0,M,master,geologie,101.14,,1,Portugal;Indonesia;Papua New Guinea
+64,2012-06-22,blond,23.0,7.0,30188.0,F,licence,geologie,85.0,non,0,Czech Republic;Philippines;Russia
+65,2012-03-08,blond,22.0,12.0,41807.0,M,bac,geologie,69.08,non,0,Armenia;China;Indonesia
+66,2014-05-17,brun,40.0,11.0,33787.0,M,doctorat,forage,95.77,oui,0,Finland;Philippines;Moldova
+67,2011-05-30,blond,54.0,7.0,35396.0,M,bac,geologie,48.69,non,0,Philippines;France;Ireland
+68,2013-04-20,blond,35.0,9.0,30580.0,F,licence,geologie,94.24,non,0,Honduras;Nicaragua;Indonesia
+69,2012-01-04,chatain,46.0,6.0,42796.0,M,master,archeologie,80.75,oui,0,Indonesia;Indonesia;Mauritius
+70,2013-12-20,blond,29.0,8.0,39117.0,F,bac,geologie,56.36,non,0,China;Pakistan;Pakistan
+71,2010-10-05,chatain,45.0,10.0,32069.0,F,master,geologie,66.3,non,0,Italy;Greece;Indonesia
+72,2011-06-11,brun,42.0,5.0,42833.0,M,licence,geologie,67.16,non,0,Oman;France;Sweden
+73,2012-05-09,brun,29.0,7.0,42383.0,M,licence,forage,66.07,oui,0,France;Guatemala;Indonesia
+74,2012-02-15,brun,26.0,8.0,28401.0,F,doctorat,detective,85.1,oui,0,France;Peru;Philippines
+75,2014-12-13,brun,61.0,9.0,32275.0,M,master,geologie,91.66,non,0,Russia;Brazil;United Kingdom
+76,2012-01-14,chatain,22.0,15.0,27395.0,F,master,forage,87.07,non,0,Indonesia;Egypt;Philippines
+77,2014-09-13,blond,33.0,12.0,38843.0,M,bac,geologie,64.6,non,0,Japan;China;Peru
+78,2012-01-31,blond,35.0,8.0,43587.0,M,licence,geologie,47.01,oui,0,Russia;Colombia;Ukraine
+79,2014-10-11,blond,26.0,10.0,33852.0,F,bac,geologie,75.27,non,0,Mexico;Portugal;Dominican Republic
+80,2012-02-21,brun,37.0,11.0,34451.0,F,licence,geologie,76.2,non,0,Argentina;Poland;Australia
+81,2012-04-17,chatain,31.0,9.0,25740.0,F,doctorat,forage,97.07,non,0,Russia;Russia;United States
+82,2013-06-23,roux,46.0,7.0,35899.0,M,licence,geologie,66.5,non,0,Swaziland;Russia;China
+83,2012-10-13,blond,35.0,14.0,31201.0,M,licence,geologie,87.35,non,0,Poland;Pakistan;Russia
+84,2013-05-17,blond,44.0,11.0,35865.0,M,master,geologie,82.39,oui,1,United States;Brazil;China
+85,2014-06-26,blond,21.0,14.0,33632.0,M,licence,geologie,,non,0,China;Pakistan;Ethiopia
+86,2013-10-30,chatain,36.0,10.0,31450.0,F,master,detective,89.11,oui,0,France;Tanzania;Nigeria
+87,2012-10-30,roux,37.0,12.0,27789.0,M,,geologie,81.83,non,0,Spain;France;Guatemala
+88,2012-11-24,blond,30.0,3.0,34821.0,M,master,geologie,81.13,oui,0,Brazil;Russia;Nigeria
+89,2012-08-12,blond,39.0,14.0,39782.0,M,master,archeologie,54.71,oui,0,Peru;Colombia;Argentina
+90,2013-11-17,brun,41.0,6.0,32184.0,M,doctorat,forage,91.68,oui,0,Indonesia;El Salvador;Indonesia
+91,2010-08-23,chatain,38.0,11.0,39178.0,M,master,geologie,64.62,oui,0,South Africa;Czech Republic;Venezuela
+92,2013-10-23,brun,45.0,3.0,36206.0,F,licence,geologie,73.93,non,0,Indonesia;Bulgaria;Tunisia
+93,2010-01-20,blond,23.0,9.0,28975.0,M,master,geologie,73.4,non,0,Bangladesh;United States;Brazil
+94,2011-10-22,chatain,35.0,3.0,31214.0,F,doctorat,forage,87.67,oui,0,Saudi Arabia;Denmark;Philippines
+95,2014-03-14,chatain,25.0,6.0,31112.0,M,doctorat,forage,87.69,oui,0,Brazil;Brazil;Russia
+96,2011-06-22,brun,56.0,10.0,33522.0,M,doctorat,geologie,106.21,oui,0,France;Brazil;Tajikistan
+97,2012-12-03,brun,46.0,10.0,29724.0,F,master,geologie,75.23,non,0,Nigeria;Mexico;Iran
+98,2012-11-01,roux,19.0,11.0,29818.0,M,bac,geologie,89.99,non,0,China;Indonesia;Philippines
+99,2012-07-12,blond,47.0,8.0,41011.0,M,bac,detective,51.12,non,0,Russia;Belarus;Philippines
+100,2012-02-29,roux,28.0,7.0,40274.0,M,bac,geologie,36.17,non,0,China;Russia;Italy
+101,2012-09-24,chatain,25.0,11.0,40667.0,M,master,geologie,59.06,non,0,Costa Rica;Pakistan;China
+102,2011-01-27,brun,31.0,15.0,27918.0,F,licence,forage,88.57,non,0,Czech Republic;Indonesia;Indonesia
+103,2013-07-30,chatain,40.0,6.0,27185.0,F,doctorat,detective,115.42,oui,0,China;Indonesia;Thailand
+104,2013-09-18,chatain,30.0,8.0,31390.0,F,licence,archeologie,65.38,non,1,China;Vietnam;Colombia
+105,2014-09-24,chatain,42.0,7.0,31662.0,F,master,forage,82.17,non,0,Philippines;China;Colombia
+106,2010-06-13,brun,48.0,13.0,34549.0,M,master,geologie,79.02,oui,0,Democratic Republic of the Congo;Portugal;Philippines
+107,2014-12-05,blond,39.0,10.0,31230.0,F,licence,geologie,95.83,non,0,Czech Republic;Canada;Yemen
+108,2012-08-31,chatain,38.0,9.0,34463.0,F,master,geologie,51.43,non,1,Indonesia;China;Indonesia
+109,2014-06-04,blond,36.0,6.0,38938.0,M,licence,geologie,89.26,oui,1,China;Philippines;Greece
+110,2010-12-29,roux,35.0,3.0,30140.0,M,master,forage,71.31,oui,0,Japan;Indonesia;China
+111,2010-05-20,blond,46.0,10.0,40090.0,M,master,archeologie,94.77,oui,0,Indonesia;Indonesia;Czech Republic
+112,2010-12-09,brun,14.0,13.0,34851.0,F,master,forage,74.46,non,0,China;Indonesia;Russia
+113,2010-07-25,chatain,26.0,9.0,38029.0,M,master,geologie,63.48,non,0,Russia;Argentina;Swaziland
+114,2010-08-22,roux,50.0,9.0,19925.0,F,master,geologie,118.62,non,0,Russia;Philippines;Cambodia
+115,2013-04-04,chatain,34.0,6.0,50575.0,M,bac,geologie,27.09,non,0,Indonesia;China;China
+116,2013-05-05,blond,50.0,14.0,37151.0,M,licence,forage,71.5,oui,0,Cuba;Indonesia;Poland
+117,2011-03-08,blond,44.0,8.0,38498.0,M,bac,detective,44.03,non,0,Philippines;China;Argentina
+118,2012-03-31,roux,32.0,9.0,24340.0,M,licence,geologie,89.87,non,0,China;Argentina;Brazil
+119,2011-06-09,brun,34.0,13.0,35201.0,F,licence,geologie,75.3,non,0,China;Greece;Honduras
+120,2012-11-09,roux,46.0,9.0,35296.0,M,bac,detective,65.37,non,0,Albania;Brazil;Malaysia
+121,2013-09-19,roux,36.0,9.0,38650.0,M,bac,geologie,40.65,non,0,Honduras;Canada;Armenia
+122,2010-02-19,brun,28.0,11.0,33974.0,M,master,geologie,73.38,non,0,Indonesia;China;Malaysia
+123,2011-09-28,blond,55.0,7.0,26237.0,M,master,geologie,78.58,non,0,Philippines;Poland;Peru
+124,2013-04-27,brun,32.0,11.0,36192.0,M,master,geologie,74.06,non,1,United States;Belarus;Russia
+125,2012-12-14,brun,30.0,6.0,25036.0,F,master,forage,69.38,non,0,Somalia;Czech Republic;Nepal
+126,2013-11-16,chatain,28.0,8.0,34022.0,F,doctorat,geologie,109.51,oui,0,Ukraine;Indonesia;Israel
+127,2012-03-20,brun,48.0,14.0,34885.0,F,licence,geologie,58.73,non,0,Philippines;El Salvador;Guatemala
+128,2012-08-28,brun,34.0,7.0,30707.0,F,licence,forage,86.99,non,0,Sweden;United Kingdom;Japan
+129,2013-11-15,roux,25.0,8.0,29581.0,M,licence,detective,86.95,oui,0,Thailand;Russia;Indonesia
+130,2013-10-13,chatain,41.0,12.0,39633.0,M,master,forage,82.86,oui,0,Indonesia;China;Russia
+131,2013-10-16,blond,33.0,5.0,33748.0,M,bac,geologie,49.26,non,0,Guam;Canada;Vietnam
+132,2013-08-30,blond,33.0,9.0,37206.0,M,licence,geologie,60.48,non,0,Indonesia;Poland;China
+133,2012-02-01,brun,52.0,7.0,45676.0,M,licence,geologie,55.08,non,0,China;China;Canada
+134,2010-07-01,chatain,39.0,12.0,35233.0,F,master,detective,89.98,oui,0,Mauritania;Peru;Martinique
+135,2012-01-16,brun,28.0,13.0,33426.0,M,master,detective,54.68,oui,0,Egypt;Argentina;Yemen
+136,2010-05-17,blond,26.0,6.0,38102.0,M,licence,detective,65.54,oui,0,China;Russia;Pakistan
+137,2014-03-18,brun,22.0,3.0,30439.0,M,doctorat,geologie,102.43,oui,1,United States;Pakistan;Indonesia
+138,2011-09-29,blond,33.0,15.0,43145.0,F,bac,geologie,45.39,non,0,Czech Republic;Czech Republic;France
+139,2011-04-29,roux,30.0,6.0,39937.0,M,bac,geologie,42.35,non,0,Russia;Russia;Japan
+140,2014-11-11,chatain,29.0,10.0,41452.0,F,licence,detective,72.0,oui,0,Czech Republic;Czech Republic;China
+141,2011-06-25,brun,41.0,11.0,30203.0,F,doctorat,archeologie,81.81,oui,0,Indonesia;Russia;Brazil
+142,2011-04-25,blond,65.0,10.0,38355.0,F,licence,archeologie,66.45,oui,0,Indonesia;Brazil;Philippines
+143,2012-04-20,chatain,29.0,8.0,31661.0,F,master,geologie,77.21,non,1,China;Philippines;China
+144,2011-03-26,blond,42.0,9.0,34427.0,M,master,geologie,87.08,oui,1,China;Vietnam;Brazil
+145,2010-02-02,blond,46.0,10.0,44708.0,M,bac,forage,50.04,non,0,Spain;Russia;Haiti
+146,2013-01-01,brun,33.0,10.0,37521.0,M,master,geologie,70.78,non,0,Portugal;Serbia;Uganda
+147,2014-10-23,chatain,41.0,8.0,36027.0,M,doctorat,forage,87.89,oui,0,China;Indonesia;China
+148,2014-04-02,chatain,41.0,12.0,44648.0,M,,geologie,83.16,oui,0,Argentina;China;Guinea
+149,2013-08-02,blond,41.0,9.0,37380.0,M,licence,geologie,46.17,non,0,France;South Africa;United States
+150,2013-08-27,chatain,31.0,6.0,40260.0,M,doctorat,geologie,68.36,oui,0,Canada;Brazil;Indonesia
+151,2011-05-15,blond,35.0,10.0,35035.0,M,master,geologie,78.59,oui,0,France;Poland;Botswana
+152,2013-06-28,chatain,25.0,6.0,24888.0,M,doctorat,geologie,103.27,oui,0,China;China;China
+153,2014-08-15,brun,27.0,2.0,36849.0,F,master,archeologie,63.62,oui,0,Philippines;Greece;China
+154,2013-04-09,brun,55.0,11.0,32093.0,F,master,geologie,66.47,non,1,Macedonia;Sweden;Finland
+155,2014-10-04,roux,46.0,8.0,30537.0,M,master,geologie,99.88,oui,0,Haiti;Finland;China
+156,2010-02-15,brun,27.0,10.0,44654.0,M,licence,geologie,54.79,non,0,China;Ukraine;China
+157,2013-10-22,blond,39.0,6.0,30319.0,M,master,forage,82.99,non,0,China;Japan;China
+158,2013-01-11,brun,47.0,9.0,41592.0,M,licence,detective,51.26,oui,0,Dominican Republic;Netherlands;China
+159,2012-03-03,brun,25.0,10.0,44516.0,M,licence,geologie,30.1,non,0,China;Canada;Estonia
+160,2011-01-01,brun,26.0,8.0,35192.0,M,master,geologie,78.6,oui,1,Argentina;Yemen;Peru
+161,2010-12-05,chatain,35.0,14.0,45383.0,M,master,geologie,41.2,non,0,Guinea;Syria;Czech Republic
+162,2013-04-08,blond,33.0,8.0,34016.0,M,licence,geologie,87.76,non,0,Colombia;Finland;Russia
+163,2011-01-23,brun,30.0,11.0,38777.0,F,master,archeologie,89.77,oui,0,Indonesia;China;Sweden
+164,2011-02-18,brun,10.0,9.0,38767.0,F,master,archeologie,89.16,oui,0,Russia;Indonesia;Brazil
+165,2010-10-23,blond,41.0,13.0,29822.0,M,,detective,106.89,oui,0,Indonesia;Luxembourg;Bulgaria
+166,2014-10-29,chatain,41.0,11.0,38688.0,M,master,detective,53.96,oui,0,Malaysia;Poland;Russia
+167,2010-10-28,blond,44.0,6.0,39636.0,M,licence,forage,81.14,oui,0,North Korea;Argentina;Philippines
+168,2013-08-13,chatain,37.0,8.0,41845.0,M,master,detective,68.81,oui,0,China;Croatia;China
+169,2014-11-25,brun,24.0,8.0,45464.0,M,bac,geologie,62.18,non,0,China;China;Poland
+170,2014-01-08,chatain,28.0,7.0,26192.0,F,master,geologie,43.64,non,1,China;Ireland;Pakistan
+171,2010-05-28,blond,32.0,10.0,34404.0,M,licence,geologie,84.44,oui,0,Philippines;France;Bulgaria
+172,2013-11-28,chatain,49.0,9.0,36429.0,M,doctorat,geologie,77.48,oui,0,South Korea;Tanzania;Colombia
+173,2011-10-08,brun,29.0,9.0,33647.0,M,master,forage,79.82,oui,0,China;Thailand;China
+174,2013-01-31,blond,24.0,8.0,34635.0,M,licence,geologie,,non,0,Mexico;Indonesia;Portugal
+175,2013-05-12,chatain,39.0,5.0,36062.0,F,master,detective,92.76,oui,0,Brazil;China;Greece
+176,2011-06-10,roux,41.0,6.0,27529.0,M,bac,geologie,63.09,non,0,Russia;China;Netherlands
+177,2014-12-28,chatain,51.0,8.0,38787.0,M,master,geologie,83.2,oui,0,Indonesia;Russia;China
+178,2013-10-05,brun,19.0,11.0,34944.0,M,master,geologie,74.52,oui,0,Poland;Madagascar;Oman
+179,2010-11-01,blond,39.0,8.0,32764.0,M,master,forage,68.91,oui,0,Denmark;Argentina;Indonesia
+180,2010-02-02,chatain,35.0,11.0,40120.0,M,master,detective,,oui,0,Colombia;Brazil;Thailand
+181,2014-08-12,chatain,27.0,13.0,37183.0,F,master,forage,87.08,oui,0,Colombia;Indonesia;China
+182,2013-05-19,blond,48.0,8.0,38887.0,M,bac,geologie,56.84,non,0,Portugal;Philippines;Sweden
+183,2014-04-14,chatain,44.0,12.0,37808.0,M,master,forage,85.26,oui,0,Tunisia;New Zealand;Brazil
+184,2014-07-29,brun,41.0,9.0,38068.0,F,licence,geologie,85.13,non,0,Iran;Serbia;China
+185,2011-12-03,chatain,27.0,8.0,32194.0,F,doctorat,geologie,90.37,oui,0,Poland;Germany;China
+186,2012-06-25,chatain,30.0,9.0,33557.0,M,master,geologie,65.9,non,0,Indonesia;China;Sweden
+187,2013-01-23,blond,26.0,10.0,30687.0,F,bac,geologie,78.85,non,0,Spain;France;Pakistan
+188,2014-12-30,roux,30.0,7.0,32580.0,M,bac,detective,37.53,non,0,China;Indonesia;China
+189,2011-04-25,brun,55.0,10.0,29393.0,F,master,forage,77.14,non,0,Indonesia;China;Mongolia
+190,2011-10-16,chatain,16.0,9.0,38461.0,F,licence,detective,74.7,non,0,Thailand;China;Poland
+191,,blond,37.0,3.0,32211.0,M,master,geologie,84.25,non,0,Ukraine;Czech Republic;China
+192,2011-11-14,chatain,46.0,11.0,26418.0,M,master,geologie,60.8,non,1,Sweden;France;Philippines
+193,2014-05-30,brun,20.0,11.0,37208.0,M,licence,geologie,66.9,non,1,Brazil;Indonesia;Indonesia
+194,2010-06-15,brun,17.0,7.0,37927.0,M,licence,geologie,65.19,oui,0,China;Poland;China
+195,2013-09-02,roux,35.0,8.0,45084.0,F,bac,geologie,55.83,non,0,Portugal;Ukraine;China
+196,2012-02-02,brun,33.0,6.0,35049.0,F,licence,detective,64.77,non,0,Indonesia;Vietnam;Vietnam
+197,2011-04-02,chatain,41.0,10.0,39570.0,M,doctorat,detective,67.14,oui,0,Greece;Japan;China
+198,2010-12-29,blond,35.0,11.0,31954.0,F,licence,forage,92.75,non,0,China;Israel;United States
+199,2010-02-03,brun,47.0,13.0,33428.0,F,master,forage,73.71,non,0,Poland;France;China
+200,2010-03-01,chatain,35.0,15.0,44976.0,M,doctorat,geologie,83.02,oui,0,China;Tanzania;China
+201,2010-12-20,brun,30.0,9.0,35411.0,F,master,forage,87.32,oui,0,Poland;Philippines;Poland
+202,2012-05-08,chatain,53.0,9.0,34831.0,M,doctorat,geologie,86.12,oui,0,Indonesia;Indonesia;China
+203,2010-12-17,blond,37.0,10.0,39375.0,M,bac,geologie,35.95,non,0,Croatia;Brazil;China
+204,2014-02-04,blond,47.0,15.0,29103.0,M,master,geologie,83.82,non,0,United States;France;Vietnam
+205,2010-04-20,chatain,30.0,12.0,37408.0,F,licence,geologie,56.41,non,0,Brazil;Ukraine;Russia
+206,2011-08-30,chatain,23.0,12.0,42563.0,M,master,detective,76.64,oui,0,China;Estonia;Tanzania
+207,2012-04-24,brun,23.0,13.0,33267.0,F,master,geologie,85.68,non,0,Palestinian Territory;Dominica;Finland
+208,2012-03-12,chatain,19.0,6.0,33842.0,F,doctorat,archeologie,100.69,oui,0,Uruguay;Colombia;China
+209,2012-01-05,roux,30.0,7.0,32363.0,F,bac,detective,79.79,non,0,Sweden;Finland;China
+210,2014-04-01,chatain,16.0,13.0,38540.0,F,master,detective,86.07,oui,0,Indonesia;Poland;South Korea
+211,2014-05-09,brun,12.0,10.0,31557.0,F,master,detective,115.51,oui,1,Nicaragua;Ukraine;Japan
+212,2011-01-25,blond,29.0,5.0,34391.0,F,licence,forage,71.15,non,0,Philippines;Portugal;China
+213,2013-05-23,brun,35.0,4.0,41347.0,M,licence,geologie,61.99,non,0,China;Canada;China
+214,2011-11-22,blond,23.0,12.0,31454.0,M,master,geologie,79.23,non,0,Mongolia;Iraq;Brazil
+215,2011-10-04,brun,42.0,10.0,25871.0,F,doctorat,forage,118.8,non,0,China;Ivory Coast;Colombia
+216,2014-08-08,brun,40.0,5.0,35550.0,M,master,geologie,73.93,non,0,Sweden;Philippines;Poland
+217,2012-10-05,brun,33.0,7.0,29077.0,F,master,geologie,66.57,non,1,China;China;China
+218,2013-12-20,blond,37.0,10.0,41834.0,F,bac,archeologie,94.06,oui,1,China;Thailand;Brazil
+219,2010-09-08,roux,14.0,9.0,32178.0,F,licence,detective,95.47,oui,0,Philippines;Peru;Brazil
+220,2014-03-05,brun,27.0,10.0,24244.0,F,master,geologie,105.13,non,0,Russia;Palestinian Territory;China
+221,2010-03-09,blond,35.0,10.0,32668.0,M,licence,geologie,47.54,non,0,Uruguay;Philippines;South Korea
+222,2010-10-08,blond,35.0,9.0,28240.0,M,doctorat,geologie,69.69,oui,0,Kiribati;Japan;United States
+223,2010-10-11,blond,47.0,9.0,30746.0,F,bac,geologie,60.95,non,0,China;Indonesia;Russia
+224,2010-01-21,brun,29.0,8.0,35566.0,M,licence,geologie,52.24,non,0,Botswana;Indonesia;Sweden
+225,2010-11-08,chatain,25.0,12.0,39166.0,F,licence,detective,62.34,non,0,Romania;Vietnam;Vietnam
+226,2012-05-06,chatain,29.0,9.0,36993.0,M,licence,geologie,51.39,non,0,Philippines;China;Spain
+227,2013-10-21,brun,47.0,9.0,37292.0,M,licence,geologie,43.92,non,0,United States;Indonesia;Canada
+228,2010-03-20,brun,31.0,10.0,34735.0,M,licence,geologie,73.37,non,0,Poland;Russia;Argentina
+229,2013-05-27,brun,37.0,12.0,40393.0,M,licence,geologie,54.47,non,0,China;North Korea;Italy
+230,2012-01-27,roux,46.0,17.0,30162.0,F,licence,detective,76.04,non,0,Colombia;Vietnam;Ukraine
+231,2013-08-25,chatain,13.0,17.0,29115.0,F,doctorat,geologie,103.68,non,0,Tajikistan;China;Ukraine
+232,2011-06-04,brun,47.0,11.0,39773.0,M,master,geologie,79.24,oui,1,Guatemala;Indonesia;Indonesia
+233,2012-09-22,brun,22.0,11.0,37137.0,M,licence,geologie,41.03,non,0,Sweden;Philippines;Brazil
+234,2013-05-02,chatain,30.0,11.0,26832.0,F,master,geologie,90.87,non,0,China;Sweden;Greece
+235,2014-12-24,brun,25.0,15.0,28404.0,F,doctorat,detective,95.05,oui,0,Brazil;Vietnam;China
+236,2010-04-11,blond,47.0,6.0,31637.0,M,master,forage,82.33,non,1,China;China;Poland
+237,2011-09-03,chatain,21.0,4.0,29451.0,F,master,geologie,93.78,non,0,Philippines;China;Pakistan
+238,2012-11-02,chatain,35.0,9.0,42252.0,M,licence,geologie,40.01,non,0,Indonesia;Indonesia;Indonesia
+239,2013-12-11,blond,27.0,11.0,29881.0,M,licence,geologie,62.57,non,0,Indonesia;China;Russia
+240,2012-03-03,chatain,21.0,13.0,42108.0,M,master,forage,57.88,oui,0,South Korea;United States;Portugal
+241,2011-11-18,chatain,40.0,9.0,25242.0,F,doctorat,forage,91.19,non,0,Brazil;Burkina Faso;Brazil
+242,2011-07-21,brun,46.0,13.0,43821.0,,licence,forage,74.31,non,0,France;Guatemala;France
+243,2010-11-17,chatain,36.0,9.0,37932.0,M,master,geologie,65.23,non,0,China;Poland;Colombia
+244,2013-01-03,blond,33.0,8.0,31382.0,M,master,geologie,92.23,oui,0,Philippines;Russia;Russia
+245,2011-11-26,chatain,41.0,14.0,39442.0,F,master,detective,77.5,oui,0,China;Philippines;Philippines
+246,2012-02-03,brun,29.0,10.0,33578.0,M,master,geologie,77.51,non,1,Egypt;Thailand;Indonesia
+247,2013-12-09,brun,43.0,14.0,30087.0,M,master,forage,74.56,non,1,Cameroon;United States;China
+248,2012-04-19,brun,37.0,14.0,38409.0,M,licence,geologie,67.24,non,0,China;Mexico;Madagascar
+249,2012-03-04,chatain,33.0,14.0,31308.0,M,master,geologie,59.07,non,1,Samoa;Portugal;Venezuela
+250,2010-01-24,brun,35.0,5.0,34569.0,F,master,forage,66.78,non,1,Japan;Czech Republic;China
+251,2011-03-13,chatain,35.0,11.0,29068.0,F,doctorat,archeologie,117.36,oui,0,Indonesia;Thailand;Indonesia
+252,2013-08-11,brun,36.0,11.0,35686.0,F,licence,geologie,76.26,non,0,China;Philippines;New Zealand
+253,2014-06-25,blond,35.0,10.0,31894.0,M,doctorat,geologie,87.71,oui,1,China;Argentina;Finland
+254,2011-08-18,brun,33.0,8.0,38218.0,F,licence,geologie,49.78,non,0,Indonesia;Pakistan;Philippines
+255,2014-01-07,blond,30.0,12.0,33725.0,M,master,geologie,71.22,non,0,Indonesia;Germany;South Africa
+256,2010-08-08,blond,24.0,13.0,29919.0,M,master,geologie,80.52,non,0,China;Indonesia;Japan
+257,2014-10-09,chatain,50.0,8.0,43433.0,M,licence,geologie,54.27,non,0,Sweden;Thailand;United States
+258,2011-01-10,chatain,8.0,10.0,44530.0,F,licence,archeologie,70.58,oui,0,Japan;Philippines;Brazil
+259,2014-10-19,blond,35.0,14.0,35476.0,M,master,geologie,93.38,oui,1,Japan;Portugal;Poland
+260,2011-10-22,brun,15.0,11.0,40196.0,F,licence,archeologie,63.51,oui,1,Czech Republic;Poland;Brazil
+261,2011-03-24,roux,29.0,6.0,35897.0,M,licence,detective,85.07,oui,0,Cameroon;Peru;United States
+262,2013-06-22,chatain,43.0,10.0,42208.0,M,master,detective,76.3,oui,0,China;North Korea;China
+263,2011-10-16,blond,57.0,3.0,33236.0,F,licence,detective,83.52,non,0,United Kingdom;Portugal;Philippines
+264,2010-08-08,chatain,39.0,11.0,32664.0,F,master,detective,76.07,oui,0,Poland;Philippines;China
+265,2012-05-14,blond,26.0,8.0,42966.0,M,master,detective,70.59,oui,0,Bolivia;Finland;Uzbekistan
+266,2013-04-28,brun,32.0,3.0,32460.0,M,master,geologie,64.21,non,0,Indonesia;Japan;China
+267,2013-06-29,blond,28.0,12.0,31146.0,M,doctorat,geologie,96.55,oui,1,Indonesia;Japan;Norway
+268,2012-04-09,chatain,32.0,11.0,33625.0,F,master,geologie,56.08,non,1,Czech Republic;Mexico;China
+269,2012-04-08,chatain,37.0,9.0,36413.0,M,doctorat,,69.59,oui,1,Thailand;Pakistan;Vietnam
+270,2012-07-16,roux,13.0,7.0,30800.0,F,bac,detective,46.97,non,0,Indonesia;Greece;Tunisia
+271,2012-07-11,blond,40.0,12.0,31244.0,M,master,detective,58.75,non,0,Peru;China;Sweden
+272,2010-09-12,chatain,34.0,13.0,31142.0,F,doctorat,forage,76.68,oui,0,China;Bulgaria;China
+273,2013-07-06,chatain,36.0,9.0,38686.0,M,doctorat,detective,57.57,oui,0,Uzbekistan;South Africa;Philippines
+274,2010-12-18,blond,44.0,7.0,33738.0,M,master,forage,68.11,oui,0,Portugal;Azerbaijan;Croatia
+275,2013-08-25,chatain,34.0,7.0,31286.0,F,master,forage,99.53,non,0,Vietnam;Czech Republic;Sweden
+276,2014-08-23,blond,23.0,9.0,30705.0,F,master,geologie,87.8,non,0,Indonesia;Afghanistan;China
+277,2011-07-22,brun,39.0,5.0,33650.0,M,licence,geologie,60.95,non,0,China;China;Spain
+278,2011-09-20,brun,62.0,8.0,42190.0,M,licence,geologie,65.17,non,0,United States;Angola;Mexico
+279,2010-07-02,chatain,38.0,13.0,38698.0,F,licence,forage,59.3,non,0,Indonesia;France;Indonesia
+280,2013-01-17,chatain,31.0,9.0,28697.0,F,master,forage,82.09,non,0,Brazil;Russia;Russia
+281,2010-07-30,blond,37.0,13.0,,M,licence,geologie,69.01,oui,0,China;Cambodia;Colombia
+282,2014-01-19,brun,40.0,14.0,21970.0,F,doctorat,forage,105.2,non,0,Colombia;China;Philippines
+283,2013-05-09,brun,30.0,0.0,32969.0,M,doctorat,forage,96.81,oui,0,China;Indonesia;Malaysia
+284,2014-07-19,,25.0,9.0,32263.0,M,master,forage,66.13,oui,0,United States;Greece;Poland
+285,2011-03-27,brun,32.0,13.0,40195.0,M,licence,geologie,74.4,non,0,Ukraine;China;China
+286,2010-05-14,chatain,26.0,7.0,39181.0,M,master,geologie,51.94,non,0,Russia;Poland;China
+287,2011-03-07,brun,39.0,10.0,29217.0,M,master,geologie,79.76,non,0,China;China;Benin
+288,2013-11-22,chatain,24.0,8.0,28746.0,F,doctorat,forage,118.65,oui,0,Ghana;China;Indonesia
+289,2012-09-09,blond,23.0,8.0,31161.0,F,licence,archeologie,112.09,non,0,Indonesia;Russia;Vietnam
+290,2012-05-19,chatain,14.0,7.0,41795.0,M,master,forage,73.74,oui,0,Philippines;Thailand;Tanzania
+291,2013-07-06,blond,17.0,10.0,35119.0,M,bac,archeologie,89.62,non,1,Portugal;Latvia;France
+292,2011-10-18,brun,38.0,9.0,29292.0,F,master,geologie,72.3,non,0,China;Chile;Thailand
+293,2014-06-21,brun,38.0,8.0,41286.0,M,licence,geologie,85.17,oui,0,Thailand;China;Indonesia
+294,2011-05-21,brun,38.0,13.0,36354.0,F,master,archeologie,88.78,oui,0,China;New Caledonia;China
+295,2010-05-08,chatain,18.0,8.0,30258.0,F,doctorat,archeologie,106.09,oui,0,Ukraine;China;Indonesia
+296,2013-02-18,roux,8.0,16.0,25825.0,F,master,archeologie,92.35,oui,0,Peru;Philippines;China
+297,2011-08-06,blond,27.0,11.0,32564.0,M,licence,geologie,59.71,non,0,El Salvador;Portugal;Japan
+298,2010-07-07,brun,32.0,12.0,33685.0,F,master,detective,75.99,oui,0,Cuba;China;Afghanistan
+299,,roux,57.0,12.0,32048.0,M,licence,geologie,99.55,oui,0,France;Indonesia;Denmark
+300,2014-06-25,blond,30.0,10.0,42526.0,F,licence,detective,105.36,oui,0,Russia;Indonesia;Czech Republic
+301,2010-04-10,chatain,45.0,11.0,28387.0,F,doctorat,detective,100.44,oui,0,Indonesia;China;France
+302,2011-10-16,chatain,42.0,10.0,34787.0,F,master,forage,84.58,oui,0,United States;Haiti;China
+303,2012-07-27,chatain,20.0,8.0,36256.0,F,master,forage,62.37,non,0,Canada;Indonesia;Japan
+304,2014-06-09,blond,33.0,12.0,34599.0,M,licence,geologie,80.7,non,0,China;Indonesia;Philippines
+305,2011-09-24,chatain,39.0,10.0,33053.0,F,doctorat,detective,97.03,oui,0,Sweden;France;Belarus
+306,2013-12-29,brun,35.0,10.0,36679.0,F,master,detective,90.24,oui,0,Japan;Costa Rica;France
+307,2011-02-19,roux,32.0,9.0,30236.0,F,bac,detective,72.04,non,0,Poland;Venezuela;France
+308,2014-05-29,blond,30.0,9.0,40385.0,M,licence,geologie,60.05,non,0,Peru;Indonesia;China
+309,2012-03-19,brun,23.0,3.0,34484.0,F,licence,forage,,non,0,Peru;France;United Kingdom
+310,2011-05-27,chatain,38.0,9.0,35703.0,F,master,geologie,77.91,non,0,Argentina;Indonesia;United Arab Emirates
+311,2012-11-15,blond,39.0,6.0,41713.0,F,licence,archeologie,74.06,oui,0,China;Cameroon;Madagascar
+312,2012-03-25,brun,43.0,10.0,28210.0,F,master,forage,87.16,non,1,Honduras;Ukraine;South Africa
+313,2014-01-19,chatain,58.0,6.0,28949.0,F,doctorat,detective,71.12,oui,0,Indonesia;Saint Kitts and Nevis;Sweden
+314,2014-01-27,brun,27.0,12.0,37321.0,M,licence,geologie,52.47,non,0,Brazil;Philippines;Poland
+315,2013-12-31,brun,34.0,12.0,36973.0,M,master,geologie,64.16,oui,0,Finland;Slovenia;Haiti
+316,2013-10-10,chatain,17.0,13.0,28468.0,M,master,geologie,66.88,non,0,Philippines;Sweden;China
+317,2013-11-26,roux,44.0,7.0,31314.0,M,bac,geologie,42.98,non,0,Kuwait;Yemen;China
+318,2014-05-30,chatain,43.0,6.0,33733.0,F,master,forage,100.38,oui,0,Dominican Republic;France;Vietnam
+319,2013-11-22,chatain,30.0,10.0,30967.0,M,master,geologie,52.14,non,0,Central African Republic;Indonesia;China
+320,2013-02-22,blond,34.0,4.0,29647.0,F,licence,geologie,66.32,non,0,Brazil;Palestinian Territory;Lesotho
+321,2012-11-18,brun,33.0,3.0,31457.0,M,master,detective,69.11,oui,0,China;China;Indonesia
+322,2010-01-19,blond,23.0,10.0,38541.0,M,licence,geologie,36.16,non,0,Peru;Indonesia;Russia
+323,2013-12-09,chatain,29.0,8.0,32547.0,M,doctorat,geologie,95.79,oui,0,Brazil;Kenya;Venezuela
+324,2014-06-24,blond,29.0,6.0,33643.0,M,licence,geologie,52.4,non,0,United States;Japan;Philippines
+325,2011-03-13,chatain,35.0,9.0,34181.0,M,master,detective,51.57,non,0,Philippines;El Salvador;China
+326,2014-03-04,blond,18.0,5.0,31315.0,M,master,geologie,85.04,oui,0,United States;Indonesia;China
+327,2011-04-24,brun,53.0,7.0,37532.0,M,licence,geologie,67.54,non,0,Indonesia;Canada;Indonesia
+328,2010-10-29,brun,35.0,9.0,33433.0,M,master,geologie,69.15,non,0,Philippines;Poland;Indonesia
+329,2012-05-17,chatain,27.0,12.0,29139.0,F,doctorat,forage,89.46,non,0,Portugal;Malaysia;Russia
+330,2010-12-07,brun,37.0,9.0,37749.0,F,licence,detective,68.66,non,1,Malaysia;Kazakhstan;Pakistan
+331,2010-09-23,chatain,42.0,10.0,42988.0,F,licence,forage,58.31,non,0,Brazil;Portugal;Canada
+332,2010-10-21,blond,35.0,12.0,33491.0,M,master,forage,88.66,oui,0,Greece;Portugal;Poland
+333,2010-12-05,chatain,39.0,12.0,33382.0,M,master,geologie,64.99,non,0,Iran;China;Russia
+334,2012-07-27,chatain,27.0,9.0,37421.0,M,doctorat,geologie,73.93,,0,Kazakhstan;Tanzania;Indonesia
+335,2010-10-08,blond,50.0,9.0,28185.0,M,licence,geologie,82.18,non,0,Philippines;Poland;Ukraine
+336,2014-02-01,blond,42.0,8.0,37962.0,M,licence,archeologie,61.0,oui,0,Poland;Russia;United States
+337,2012-04-27,blond,44.0,10.0,37718.0,F,licence,detective,81.42,oui,0,Czech Republic;Greece;Czech Republic
+338,2010-10-18,blond,35.0,10.0,40921.0,M,licence,geologie,74.01,oui,0,Sweden;Mexico;New Zealand
+339,2010-06-18,brun,51.0,10.0,36358.0,F,master,archeologie,62.22,oui,0,Philippines;Indonesia;France
+340,2014-05-19,chatain,41.0,7.0,36721.0,F,master,archeologie,,oui,0,Indonesia;Ireland;Japan
+341,2013-01-15,blond,24.0,10.0,35829.0,M,licence,geologie,61.67,non,0,Indonesia;China;Vietnam
+342,2013-05-18,brun,41.0,15.0,34431.0,F,licence,geologie,95.75,non,0,China;Malawi;Russia
+343,2011-02-18,blond,43.0,8.0,38619.0,M,licence,archeologie,68.4,oui,0,Guatemala;Albania;Afghanistan
+344,2014-06-28,chatain,31.0,6.0,28308.0,F,doctorat,archeologie,108.62,oui,1,Sweden;China;Bulgaria
+345,2011-02-17,blond,17.0,12.0,34770.0,M,master,archeologie,103.3,oui,0,Panama;New Caledonia;China
+346,2013-05-10,blond,19.0,12.0,38393.0,M,licence,forage,92.02,oui,0,Indonesia;Norway;Indonesia
+347,2010-08-19,blond,29.0,6.0,33756.0,M,doctorat,geologie,96.43,oui,0,Afghanistan;Afghanistan;Chile
+348,2014-07-06,chatain,47.0,15.0,37118.0,M,doctorat,geologie,73.58,oui,0,Hong Kong;China;Nicaragua
+349,2011-10-14,blond,39.0,12.0,36433.0,M,licence,forage,86.47,oui,1,Russia;Brazil;Russia
+350,2011-12-08,brun,25.0,7.0,27842.0,M,master,forage,68.35,non,1,Philippines;Indonesia;United States
+351,2012-04-24,chatain,40.0,3.0,41180.0,F,master,,77.37,non,0,Brazil;Philippines;Norway
+352,2012-06-23,blond,27.0,11.0,37714.0,M,licence,geologie,68.83,non,0,South Africa;Czech Republic;Sweden
+353,2010-07-21,brun,42.0,10.0,28083.0,M,doctorat,forage,95.2,oui,0,Argentina;Finland;China
+354,2011-11-28,brun,21.0,10.0,40127.0,F,licence,forage,70.13,non,0,Serbia;Russia;Indonesia
+355,2012-09-22,brun,37.0,9.0,33905.0,M,doctorat,detective,95.01,oui,0,Indonesia;Tajikistan;Thailand
+356,2013-03-25,chatain,30.0,11.0,37173.0,F,doctorat,archeologie,86.04,oui,0,Philippines;Afghanistan;Argentina
+357,2012-12-11,chatain,42.0,10.0,38923.0,F,doctorat,archeologie,81.41,oui,0,South Africa;South Africa;Peru
+358,2012-06-09,blond,41.0,9.0,40355.0,M,licence,geologie,66.19,oui,0,Mexico;China;Russia
+359,2013-11-21,chatain,32.0,,28230.0,F,licence,archeologie,59.35,non,1,Brazil;Indonesia;United States
+360,2010-10-07,brun,33.0,8.0,32787.0,M,licence,archeologie,78.44,non,1,Indonesia;Burundi;China
+361,2013-09-19,brun,35.0,7.0,40349.0,F,licence,detective,78.09,oui,0,Argentina;Uganda;Russia
+362,2012-02-05,chatain,30.0,8.0,30797.0,F,master,archeologie,83.8,non,0,China;Philippines;Indonesia
+363,2011-05-24,roux,48.0,12.0,41271.0,M,licence,geologie,102.02,oui,1,China;Dominican Republic;Colombia
+364,2010-01-02,chatain,19.0,10.0,43902.0,F,licence,detective,46.42,oui,0,China;Japan;Greece
+365,2011-07-05,chatain,33.0,9.0,33524.0,M,doctorat,forage,98.64,oui,0,Palestinian Territory;Portugal;China
+366,2011-09-27,roux,43.0,4.0,31132.0,M,bac,forage,56.44,non,0,Brazil;Greece;Spain
+367,2013-12-25,chatain,21.0,11.0,31221.0,F,master,forage,82.99,non,0,Chile;China;France
+368,2010-10-24,brun,26.0,6.0,39403.0,M,licence,geologie,75.32,non,0,Benin;Brazil;Ghana
+369,2010-12-20,chatain,35.0,3.0,25394.0,F,doctorat,forage,118.25,oui,0,Mongolia;Peru;Canada
+370,2012-12-06,chatain,28.0,12.0,28479.0,M,doctorat,geologie,105.15,oui,0,Portugal;Poland;Greece
+371,2011-09-18,blond,35.0,14.0,38464.0,F,licence,detective,81.31,non,0,Thailand;Sweden;Brazil
+372,2013-06-21,blond,45.0,9.0,29974.0,F,master,detective,91.56,non,0,Brazil;Poland;Panama
+373,2012-09-12,chatain,33.0,9.0,38852.0,M,master,geologie,73.37,oui,0,Niger;Zambia;Indonesia
+374,2011-01-11,chatain,35.0,9.0,29294.0,F,licence,detective,45.93,non,1,China;Haiti;Egypt
+375,2013-11-24,chatain,38.0,3.0,38049.0,M,master,detective,80.95,oui,0,Cyprus;China;Kazakhstan
+376,2013-06-22,blond,35.0,11.0,36620.0,M,licence,geologie,42.88,non,0,Armenia;China;Philippines
+377,2011-02-21,blond,24.0,15.0,28852.0,F,master,forage,103.78,oui,0,Yemen;Brazil;Argentina
+378,2012-04-26,chatain,38.0,11.0,43465.0,M,master,archeologie,72.37,oui,0,Philippines;China;China
+379,2012-03-09,roux,28.0,11.0,35482.0,M,bac,geologie,61.78,non,0,China;Poland;Sweden
+380,2011-05-08,blond,25.0,11.0,32712.0,M,bac,geologie,59.76,non,0,Ukraine;Poland;Pakistan
+381,2010-09-18,chatain,37.0,13.0,31191.0,F,licence,detective,81.7,non,0,Greece;Reunion;China
+382,2012-10-08,roux,37.0,13.0,33221.0,M,licence,geologie,51.13,non,0,China;Russia;Ukraine
+383,2013-04-08,brun,48.0,11.0,33628.0,F,licence,geologie,72.84,non,0,China;China;France
+384,2011-08-31,chatain,25.0,0.0,41290.0,M,master,detective,59.17,oui,0,Peru;China;Indonesia
+385,2014-12-08,roux,24.0,7.0,31189.0,M,licence,geologie,84.15,non,0,Djibouti;Nigeria;Dominican Republic
+386,2010-03-12,blond,51.0,11.0,39102.0,M,bac,geologie,61.88,non,0,Gambia;China;Belarus
+387,2013-09-19,chatain,37.0,15.0,31469.0,M,master,geologie,69.09,non,0,Nigeria;Belarus;Thailand
+388,2012-02-29,roux,50.0,8.0,38797.0,M,licence,geologie,,oui,1,Afghanistan;Morocco;Italy
+389,2014-05-13,blond,30.0,8.0,35846.0,M,,geologie,73.86,non,1,China;Peru;Sweden
+390,2013-08-12,brun,19.0,6.0,29064.0,F,master,detective,96.32,oui,0,China;Peru;Belarus
+391,2012-01-19,brun,53.0,12.0,37648.0,F,master,archeologie,95.2,oui,0,Argentina;China;Madagascar
+392,2014-03-02,blond,29.0,11.0,24352.0,M,master,geologie,90.4,non,0,Brazil;Poland;Serbia
+393,2010-05-15,blond,34.0,12.0,33588.0,F,licence,forage,69.63,non,0,Indonesia;Sweden;Poland
+394,2012-04-19,chatain,19.0,12.0,23243.0,F,doctorat,detective,127.58,oui,0,Honduras;Armenia;Syria
+395,2011-02-13,chatain,30.0,,30091.0,F,master,geologie,99.87,non,0,China;Philippines;Indonesia
+396,2010-02-14,chatain,8.0,11.0,36915.0,M,master,geologie,69.36,non,0,China;Mongolia;Indonesia
+397,2012-10-13,brun,30.0,13.0,32314.0,F,licence,forage,65.74,non,0,Democratic Republic of the Congo;China;Iran
+398,2013-12-16,chatain,32.0,12.0,41405.0,M,licence,forage,69.43,oui,0,Thailand;China;Ireland
+399,2011-01-28,brun,41.0,8.0,41766.0,M,licence,detective,59.33,oui,0,Pakistan;China;Uzbekistan
+400,2013-04-03,blond,37.0,11.0,36042.0,M,licence,geologie,63.58,non,0,Japan;Brazil;Portugal
+401,2012-04-30,brun,36.0,9.0,35563.0,M,doctorat,detective,63.92,oui,0,Netherlands;China;Vietnam
+402,2014-03-02,chatain,39.0,11.0,29421.0,F,licence,detective,56.76,non,1,Peru;Brazil;Ethiopia
+403,2014-09-03,chatain,35.0,16.0,42079.0,,licence,geologie,48.51,non,0,Mexico;Russia;China
+404,2010-08-21,brun,35.0,12.0,39121.0,M,licence,geologie,51.28,non,0,Portugal;Sweden;China
+405,2013-05-01,blond,10.0,6.0,39318.0,M,licence,forage,69.82,oui,0,Macedonia;China;China
+406,2012-08-08,chatain,32.0,10.0,41423.0,F,licence,archeologie,67.86,oui,1,China;Thailand;Peru
+407,2010-07-03,blond,42.0,11.0,38945.0,M,bac,geologie,45.98,non,0,Russia;Ukraine;Indonesia
+408,2012-05-06,blond,32.0,14.0,35891.0,M,licence,geologie,74.99,non,0,Sweden;Indonesia;China
+409,2012-11-22,blond,24.0,11.0,34436.0,F,licence,detective,84.5,non,0,Peru;Poland;Syria
+410,2011-11-10,blond,39.0,10.0,39427.0,F,bac,detective,60.44,non,0,China;Palestinian Territory;Mexico
+411,2012-01-22,blond,33.0,8.0,35240.0,M,master,geologie,68.01,oui,0,China;Palestinian Territory;Ivory Coast
+412,2010-10-26,blond,24.0,11.0,31699.0,M,master,archeologie,92.81,oui,0,Singapore;Palestinian Territory;Argentina
+413,2014-11-07,chatain,30.0,10.0,28281.0,F,doctorat,detective,98.65,oui,0,Belarus;Brazil;Portugal
+414,2012-04-15,chatain,31.0,15.0,30005.0,F,master,forage,92.89,non,0,Ukraine;Australia;Libya
+415,2014-07-15,chatain,53.0,11.0,29989.0,M,master,detective,69.35,non,1,United States;Brazil;Portugal
+416,2013-10-11,chatain,35.0,4.0,37957.0,F,master,geologie,85.85,non,0,China;China;Bulgaria
+417,2014-02-12,brun,24.0,13.0,35628.0,M,master,detective,71.4,oui,0,France;China;Canada
+418,2010-04-17,chatain,25.0,9.0,33617.0,F,doctorat,detective,90.01,oui,0,China;United Kingdom;Indonesia
+419,2010-08-19,chatain,31.0,9.0,25360.0,M,master,forage,69.73,non,1,China;Trinidad and Tobago;China
+420,2012-10-13,chatain,36.0,13.0,35784.0,M,doctorat,archeologie,88.12,oui,0,Greece;Nigeria;Mongolia
+421,2014-04-08,chatain,43.0,11.0,28965.0,F,doctorat,archeologie,125.47,oui,0,Philippines;China;Kenya
+422,2014-12-16,roux,8.0,12.0,34060.0,M,licence,geologie,71.27,oui,0,Peru;Sweden;Sweden
+423,2012-12-19,brun,42.0,15.0,,M,master,forage,67.87,non,0,Greece;Russia;Indonesia
+424,2010-05-01,blond,30.0,14.0,32157.0,M,licence,detective,98.25,non,1,China;China;Brazil
+425,2010-10-29,chatain,18.0,9.0,36128.0,F,master,archeologie,76.48,oui,0,Bosnia and Herzegovina;Indonesia;Cameroon
+426,2013-06-24,chatain,29.0,16.0,47103.0,F,,detective,67.17,oui,0,South Africa;Brazil;China
+427,2012-10-26,blond,43.0,15.0,38085.0,M,licence,detective,75.76,oui,0,Brazil;Poland;Philippines
+428,2013-05-20,blond,28.0,11.0,34670.0,F,licence,archeologie,86.24,oui,0,Brazil;Greece;Ireland
+429,2013-03-17,blond,19.0,8.0,33973.0,F,master,detective,90.22,oui,0,Costa Rica;Philippines;Portugal
+430,2014-09-29,brun,47.0,9.0,42292.0,F,licence,archeologie,79.65,oui,0,Canada;China;France
+431,2012-12-01,brun,36.0,9.0,37822.0,M,licence,geologie,65.16,non,0,Tajikistan;Iran;Czech Republic
+432,2012-08-23,chatain,39.0,6.0,32191.0,F,master,detective,91.29,oui,0,China;China;Kiribati
+433,2014-08-12,blond,34.0,6.0,30317.0,M,licence,geologie,53.96,non,0,Argentina;China;Indonesia
+434,2014-12-15,brun,41.0,11.0,26114.0,F,master,geologie,103.85,non,0,South Korea;China;Poland
+435,2014-04-20,brun,32.0,5.0,38908.0,M,master,detective,81.94,oui,0,Russia;Czech Republic;Angola
+436,2012-04-29,brun,33.0,14.0,29976.0,M,master,geologie,89.37,non,0,Mexico;Russia;Vietnam
+437,2011-11-23,blond,40.0,10.0,34100.0,M,doctorat,geologie,97.0,oui,1,Peru;Philippines;Iran
+438,2012-06-06,blond,21.0,7.0,30971.0,M,master,forage,75.17,non,0,Czech Republic;Poland;Thailand
+439,2011-03-29,blond,25.0,13.0,41906.0,M,bac,geologie,45.86,non,0,Portugal;Peru;Russia
+440,2013-05-01,brun,18.0,4.0,33875.0,M,licence,geologie,40.61,non,0,China;Indonesia;Latvia
+441,2012-10-31,brun,43.0,8.0,30821.0,F,licence,forage,53.68,non,0,Brazil;China;Indonesia
+442,2011-08-28,chatain,27.0,7.0,35555.0,M,master,geologie,84.8,oui,0,Nicaragua;Japan;Ukraine
+443,2012-09-19,chatain,29.0,9.0,33764.0,M,master,geologie,71.26,non,0,Ukraine;Indonesia;Guatemala
+444,2011-08-27,brun,31.0,6.0,32691.0,F,master,geologie,93.4,non,0,Portugal;Indonesia;Dominica
+445,2010-12-15,blond,25.0,12.0,35663.0,M,licence,geologie,83.15,non,0,Brazil;Macedonia;Thailand
+446,2011-06-18,brun,29.0,11.0,34912.0,F,master,forage,89.24,oui,0,Indonesia;Brazil;China
+447,2010-05-19,blond,18.0,13.0,31291.0,F,licence,geologie,81.45,non,0,Moldova;Syria;Colombia
+448,2012-04-09,chatain,39.0,12.0,30423.0,F,doctorat,detective,88.27,oui,0,Russia;Ireland;Venezuela
+449,2013-04-10,blond,35.0,11.0,34161.0,M,licence,detective,44.08,non,0,China;Russia;United States
+450,2010-11-15,chatain,24.0,12.0,32837.0,F,master,detective,78.37,non,0,Sweden;Peru;China
+451,2011-04-07,blond,39.0,15.0,38591.0,M,licence,forage,72.83,non,0,Indonesia;China;Canada
+452,2010-09-12,roux,17.0,8.0,29611.0,M,licence,geologie,87.93,non,0,Spain;United Kingdom;Kazakhstan
+453,2010-09-30,chatain,32.0,5.0,37946.0,F,doctorat,geologie,96.69,oui,0,China;Russia;China
+454,2014-07-24,chatain,35.0,10.0,34418.0,M,master,geologie,56.23,non,0,Brazil;China;Ivory Coast
+455,2011-02-04,blond,35.0,9.0,37426.0,M,bac,geologie,81.96,non,0,Tanzania;Poland;Uruguay
+456,2012-09-10,blond,44.0,11.0,35191.0,M,master,geologie,74.45,oui,0,Indonesia;Bosnia and Herzegovina;Russia
+457,2011-02-01,blond,27.0,8.0,40050.0,M,licence,archeologie,78.26,oui,0,Indonesia;Sweden;Czech Republic
+458,2012-12-26,brun,34.0,11.0,35418.0,F,master,detective,80.55,oui,0,China;China;Albania
+459,2014-11-30,blond,35.0,12.0,29185.0,M,master,geologie,88.37,non,0,United Kingdom;Belarus;Finland
+460,2014-04-05,chatain,37.0,8.0,35095.0,F,master,detective,85.45,oui,0,Argentina;Dominica;China
+461,2012-10-18,blond,19.0,12.0,36097.0,M,licence,detective,89.83,oui,1,China;Ireland;China
+462,2014-12-27,blond,36.0,7.0,24718.0,M,doctorat,geologie,103.92,oui,0,Russia;China;Nigeria
+463,2014-03-04,roux,28.0,15.0,44032.0,M,licence,geologie,55.97,oui,0,Finland;Mexico;El Salvador
+464,2011-10-02,brun,38.0,9.0,45541.0,F,bac,forage,34.81,non,0,Brazil;China;Indonesia
+465,2012-03-12,blond,28.0,7.0,38938.0,M,licence,geologie,71.52,non,0,Peru;China;Indonesia
+466,2012-10-29,blond,53.0,6.0,36839.0,F,licence,archeologie,77.35,non,0,Indonesia;Indonesia;Ukraine
+467,2010-06-16,brun,31.0,8.0,40554.0,M,master,geologie,72.26,oui,1,Indonesia;Sweden;Portugal
+468,2013-03-01,blond,31.0,6.0,27948.0,M,master,geologie,97.67,non,0,Luxembourg;Thailand;Portugal
+469,2012-07-01,blond,39.0,8.0,33746.0,M,licence,detective,62.59,non,0,Russia;China;PortugalR
+470,2010-06-16,brun,21.0,10.0,36116.0,F,master,forage,85.72,oui,0,China;El Salvador;Ireland
+471,2010-10-01,brun,33.0,8.0,30505.0,M,master,geologie,69.83,non,1,Vietnam;China;Armenia
+472,2011-07-05,chatain,47.0,10.0,27926.0,F,doctorat,geologie,85.8,non,0,China;China;Peru
+473,2010-11-13,chatain,26.0,6.0,44084.0,M,licence,geologie,12.63,non,0,Greece;France;Indonesia
+474,2011-07-04,chatain,26.0,10.0,33168.0,F,licence,geologie,65.83,non,1,China;Colombia;Russia
+475,2011-05-11,blond,38.0,13.0,34807.0,M,licence,geologie,78.6,non,0,China;Morocco;Canada
+476,2011-09-19,chatain,32.0,15.0,30851.0,F,licence,geologie,77.84,non,0,South Korea;Norway;Mexico
+477,2011-10-29,blond,26.0,5.0,39865.0,M,master,geologie,64.74,oui,0,Bolivia;El Salvador;China
+478,2014-02-07,blond,25.0,13.0,24575.0,M,licence,geologie,70.39,non,0,Portugal;Indonesia;Colombia
+479,2012-04-10,brun,15.0,12.0,24054.0,M,master,geologie,54.13,non,0,Greece;Mexico;Turkey
+480,2011-05-07,brun,27.0,7.0,25572.0,M,master,geologie,73.82,non,0,Peru;Japan;Indonesia
+481,2011-10-30,blond,21.0,13.0,37506.0,M,licence,geologie,71.07,non,0,China;Czech Republic;Russia
+482,2013-02-12,chatain,23.0,12.0,37979.0,F,doctorat,archeologie,96.25,oui,0,United States;Indonesia;France
+483,2011-06-07,chatain,12.0,2.0,29034.0,F,doctorat,forage,103.23,oui,0,Indonesia;Russia;China
+484,2014-05-16,blond,41.0,,39976.0,M,bac,detective,48.02,non,0,Indonesia;Philippines;China
+485,2014-06-08,chatain,37.0,2.0,33113.0,M,doctorat,geologie,81.21,oui,0,Sweden;Russia;Poland
+486,2011-08-31,chatain,36.0,4.0,37524.0,F,doctorat,detective,81.66,oui,0,Czech Republic;Russia;Greece
+487,2010-09-11,brun,32.0,10.0,37139.0,M,master,geologie,75.45,oui,0,Poland;China;Brazil
+488,2011-08-29,chatain,17.0,11.0,36988.0,M,master,detective,68.28,oui,0,Vietnam;Peru;China
+489,2012-04-05,chatain,38.0,8.0,35582.0,F,master,forage,95.49,non,0,Portugal;Portugal;China
+490,2011-08-13,blond,15.0,6.0,41332.0,M,bac,forage,34.45,non,0,Malaysia;Argentina;Portugal
+491,2014-11-10,blond,45.0,8.0,30229.0,M,master,geologie,95.49,oui,0,Honduras;United States;Germany
+492,2013-01-12,brun,26.0,10.0,40470.0,M,licence,geologie,31.29,non,0,Portugal;Russia;China
+493,2012-07-24,chatain,22.0,8.0,31772.0,F,master,forage,51.26,non,1,United States;China;China
+494,2011-02-04,brun,26.0,13.0,37454.0,M,licence,forage,55.42,non,0,Sweden;China;Philippines
+495,2011-11-20,brun,30.0,7.0,34980.0,F,licence,archeologie,51.51,non,0,China;France;Thailand
+496,2012-07-15,blond,28.0,14.0,26970.0,F,licence,forage,71.19,non,0,China;Indonesia;China
+497,2010-03-04,roux,22.0,7.0,37146.0,M,licence,forage,100.0,oui,1,Indonesia;Japan;China
+498,2010-07-05,chatain,49.0,6.0,35364.0,M,master,geologie,93.78,non,0,China;Costa Rica;Peru
+499,2012-03-29,blond,33.0,11.0,36732.0,M,licence,forage,68.68,non,0,Czech Republic;Russia;Slovenia
+500,2013-01-13,blond,24.0,10.0,33139.0,F,licence,geologie,86.24,non,0,China;China;Philippines
+501,2013-09-24,brun,30.0,3.0,29344.0,F,,forage,80.27,non,0,China;Indonesia;Philippines
+502,2013-06-17,chatain,36.0,7.0,34575.0,M,doctorat,geologie,58.83,oui,1,Philippines;France;Japan
+503,,blond,53.0,7.0,35100.0,M,bac,geologie,51.02,non,0,Russia;Russia;Mali
+504,2010-01-13,blond,23.0,9.0,29569.0,M,master,forage,89.78,oui,0,Albania;Thailand;Portugal
+505,2010-06-24,blond,27.0,10.0,42641.0,M,bac,geologie,71.99,non,0,Portugal;Indonesia;France
+506,2013-09-05,chatain,28.0,9.0,23431.0,F,master,geologie,107.26,non,0,France;China;North Korea
+507,2011-11-19,brun,38.0,8.0,33852.0,M,licence,geologie,67.17,non,1,France;Haiti;Nigeria
+508,2012-11-07,chatain,39.0,15.0,,F,doctorat,forage,110.52,oui,0,Philippines;China;Portugal
+509,2013-07-16,blond,51.0,5.0,36189.0,M,master,geologie,78.22,oui,1,United States;Kosovo;Japan
+510,2010-01-12,brun,36.0,6.0,37167.0,M,master,forage,70.21,oui,0,China;Indonesia;China
+511,2010-11-26,blond,35.0,8.0,36787.0,M,licence,detective,77.44,oui,0,China;Argentina;Philippines
+512,2012-05-12,chatain,40.0,15.0,33090.0,M,doctorat,geologie,95.46,oui,0,Brazil;Indonesia;Bulgaria
+513,2012-03-19,brun,34.0,10.0,25449.0,M,doctorat,geologie,103.09,oui,0,Japan;Poland;China
+514,2013-04-02,chatain,30.0,8.0,33213.0,M,master,geologie,58.66,non,0,China;Indonesia;Poland
+515,2010-12-22,roux,49.0,11.0,25442.0,F,licence,geologie,89.28,non,0,Philippines;Indonesia;France
+516,2013-07-02,chatain,50.0,12.0,39877.0,F,master,detective,69.84,oui,0,China;China;Ireland
+517,2012-08-20,brun,39.0,4.0,28370.0,M,doctorat,geologie,79.27,non,0,Portugal;Indonesia;Chile
+518,2012-04-15,chatain,12.0,4.0,44770.0,M,licence,geologie,33.61,non,0,China;Indonesia;Peru
+519,2014-04-22,brun,33.0,5.0,32927.0,M,master,geologie,69.6,oui,1,China;France;Indonesia
+520,2010-06-16,chatain,16.0,11.0,39272.0,M,master,geologie,41.95,non,0,Lithuania;Iran;Philippines
+521,2014-03-15,chatain,38.0,12.0,33451.0,F,doctorat,detective,106.65,oui,0,United States;Peru;Guatemala
+522,2011-07-25,chatain,32.0,13.0,23603.0,F,doctorat,forage,102.6,oui,0,Sweden;Thailand;Indonesia
+523,2010-07-17,roux,36.0,13.0,21735.0,F,licence,geologie,84.47,non,0,France;Afghanistan;France
+524,2013-01-04,roux,41.0,15.0,23878.0,M,master,forage,101.9,oui,0,Switzerland;Sweden;Ukraine
+525,2011-03-30,blond,23.0,8.0,37436.0,M,licence,geologie,71.23,non,0,Indonesia;Indonesia;Brazil
+526,2014-09-29,brun,33.0,15.0,34505.0,M,master,geologie,86.26,non,0,China;Philippines;Myanmar
+527,2013-12-07,blond,39.0,8.0,41105.0,M,licence,detective,58.56,oui,0,Kenya;France;Indonesia
+528,2011-07-31,blond,35.0,11.0,35524.0,F,licence,archeologie,54.4,non,0,Indonesia;Philippines;Canada
+529,2013-12-24,blond,5.0,13.0,39079.0,M,licence,geologie,55.41,non,0,Indonesia;Syria;Nigeria
+530,2013-06-20,blond,67.0,3.0,23851.0,F,licence,geologie,66.4,non,0,Colombia;Indonesia;Netherlands
+531,2014-03-13,brun,19.0,4.0,34449.0,M,master,geologie,85.58,non,0,Nigeria;Philippines;Greece
+532,2013-04-19,brun,25.0,6.0,30559.0,F,licence,forage,66.4,non,0,Bangladesh;Venezuela;Pakistan
+533,2012-05-08,blond,35.0,9.0,38104.0,M,licence,forage,63.8,oui,0,Indonesia;North Korea;China
+534,2013-01-20,blond,44.0,9.0,34087.0,M,licence,forage,85.73,non,0,Russia;Ukraine;Comoros
+535,2010-11-26,blond,35.0,9.0,41150.0,M,master,geologie,108.89,oui,1,Indonesia;China;Peru
+536,2012-05-12,chatain,40.0,13.0,39715.0,M,licence,forage,45.81,non,0,Nigeria;Czech Republic;Cameroon
+537,2012-07-20,chatain,33.0,6.0,28461.0,M,doctorat,forage,95.89,oui,0,Poland;Brazil;Russia
+538,2012-06-23,roux,22.0,4.0,32498.0,M,licence,detective,85.99,oui,0,Mexico;Colombia;Portugal
+539,2010-04-07,chatain,44.0,2.0,36885.0,M,doctorat,detective,78.78,oui,0,Ukraine;Colombia;Thailand
+540,2014-12-18,chatain,35.0,9.0,28645.0,M,doctorat,geologie,66.41,non,1,China;Brazil;Ukraine
+541,2013-01-19,blond,40.0,15.0,38439.0,M,licence,forage,67.4,non,0,Indonesia;Portugal;Philippines
+542,2012-10-26,blond,51.0,4.0,45223.0,M,bac,forage,35.02,oui,0,Russia;China;Sweden
+543,2012-12-02,chatain,35.0,10.0,30506.0,F,master,geologie,77.6,non,0,Philippines;Egypt;Portugal
+544,2014-07-07,brun,43.0,10.0,35910.0,F,licence,geologie,59.87,non,1,Canada;Indonesia;Turkmenistan
+545,2012-05-13,blond,34.0,9.0,30607.0,M,master,geologie,77.32,non,0,Portugal;China;Portugal
+546,2011-04-11,blond,35.0,10.0,27594.0,F,master,detective,116.44,oui,0,China;Brazil;China
+547,2010-12-21,brun,42.0,9.0,44036.0,M,licence,forage,47.17,oui,0,Egypt;South Korea;Democratic Republic of the Congo
+548,2010-06-09,brun,37.0,9.0,33618.0,M,master,geologie,67.75,non,0,Indonesia;Russia;United States
+549,2013-05-31,chatain,32.0,8.0,39454.0,F,doctorat,geologie,50.2,oui,1,Colombia;Kazakhstan;Peru
+550,2011-01-21,blond,37.0,12.0,39535.0,F,bac,detective,64.72,non,0,Philippines;Ukraine;Poland
+551,2012-12-06,chatain,,7.0,27457.0,F,doctorat,detective,118.66,oui,0,Portugal;Indonesia;Indonesia
+552,2012-07-01,roux,24.0,12.0,45574.0,F,licence,geologie,106.17,oui,1,Philippines;China;China
+553,2013-01-26,blond,37.0,2.0,32179.0,F,master,detective,91.19,oui,0,United States;Yemen;China
+554,2012-04-09,blond,45.0,9.0,32226.0,F,licence,archeologie,93.19,oui,0,Pakistan;Macedonia;Colombia
+555,2014-03-22,brun,24.0,3.0,41346.0,M,licence,detective,35.77,non,0,Philippines;Russia;Bangladesh
+556,2013-01-30,blond,39.0,10.0,32064.0,,licence,forage,65.69,non,0,France;Indonesia;United States
+557,2012-11-12,chatain,41.0,5.0,36528.0,F,master,detective,95.32,oui,0,Thailand;Indonesia;Palestinian Territory
+558,2014-01-19,,35.0,15.0,38212.0,M,master,geologie,74.34,oui,1,Czech Republic;Portugal;Panama
+559,2013-03-08,chatain,39.0,8.0,34102.0,M,doctorat,detective,70.59,oui,1,Brazil;France;Ivory Coast
+560,2011-11-26,chatain,30.0,10.0,36291.0,F,doctorat,forage,100.06,oui,0,Indonesia;Russia;China
+561,2010-09-10,blond,51.0,4.0,28810.0,M,licence,geologie,75.27,non,0,Philippines;Russia;China
+562,2010-05-24,roux,19.0,9.0,31760.0,M,bac,geologie,66.0,non,0,China;Italy;Philippines
+563,2013-07-04,blond,38.0,6.0,34753.0,M,master,forage,90.73,oui,1,China;Greece;Indonesia
+564,2013-09-19,blond,39.0,11.0,32492.0,M,licence,geologie,81.49,non,0,Malaysia;Guatemala;China
+565,2013-11-02,brun,41.0,9.0,33986.0,M,master,geologie,49.42,non,0,Philippines;France;Russia
+566,2011-11-01,roux,37.0,10.0,34027.0,M,licence,geologie,69.11,non,0,Colombia;China;Lithuania
+567,2011-11-02,brun,32.0,12.0,41936.0,F,bac,forage,74.39,non,0,Portugal;Poland;Ireland
+568,2012-09-20,chatain,23.0,7.0,32716.0,F,master,forage,79.55,non,0,Russia;Russia;China
+569,2013-08-11,chatain,45.0,5.0,35380.0,F,master,geologie,69.29,non,0,China;Morocco;South Korea
+570,2011-05-29,brun,25.0,12.0,35214.0,F,bac,archeologie,74.58,non,1,Argentina;Portugal;Russia
+571,2012-01-01,chatain,31.0,10.0,37188.0,M,doctorat,detective,88.92,oui,0,Belarus;Czech Republic;Greece
+572,2014-01-12,brun,37.0,,36960.0,M,licence,detective,59.69,oui,0,Philippines;Portugal;Thailand
+573,2010-01-24,chatain,37.0,10.0,39414.0,M,licence,geologie,65.14,non,0,China;Thailand;China
+574,2014-08-13,blond,39.0,8.0,38985.0,M,bac,forage,61.37,non,0,China;Russia;Albania
+575,2012-03-07,blond,33.0,5.0,31066.0,M,licence,detective,88.6,non,1,Russia;Montenegro;Pakistan
+576,2012-08-09,roux,43.0,14.0,30902.0,M,licence,forage,78.25,non,0,Peru;Palestinian Territory;Greece
+577,2011-09-11,brun,18.0,11.0,34015.0,M,master,detective,86.02,oui,0,Sweden;Ukraine;Mongolia
+578,2012-10-18,brun,19.0,3.0,32162.0,M,licence,geologie,47.4,non,0,Vietnam;Sweden;China
+579,2014-10-09,blond,35.0,6.0,29596.0,F,licence,detective,81.82,non,0,China;China;Mali
+580,2010-09-11,brun,42.0,4.0,42683.0,M,master,forage,76.56,oui,0,Brazil;United States;Poland
+581,2010-04-18,chatain,16.0,11.0,39905.0,F,master,forage,63.33,oui,0,Myanmar;Philippines;Brazil
+582,2012-04-23,blond,26.0,9.0,29461.0,F,master,archeologie,93.56,oui,0,Sweden;Kenya;Spain
+583,2012-12-04,brun,32.0,10.0,26589.0,F,,geologie,107.17,non,0,China;Japan;Burkina Faso
+584,2010-02-28,chatain,41.0,8.0,38073.0,F,licence,detective,68.39,non,1,Portugal;United States;China
+585,2010-05-29,brun,50.0,10.0,35154.0,M,master,detective,87.93,oui,0,South Korea;China;Peru
+586,2010-04-01,blond,29.0,10.0,32550.0,F,licence,geologie,77.2,non,0,Ukraine;China;Russia
+587,2012-04-18,brun,36.0,8.0,41640.0,F,master,archeologie,103.84,oui,0,China;Liberia;China
+588,2011-12-04,brun,31.0,7.0,43251.0,M,licence,geologie,45.81,non,0,Angola;China;Indonesia
+589,2013-07-19,chatain,27.0,5.0,42131.0,M,master,detective,60.45,oui,0,Ivory Coast;Bangladesh;Vietnam
+590,2011-08-28,chatain,49.0,11.0,37496.0,F,doctorat,forage,108.78,oui,0,Greece;Brazil;Malaysia
+591,2012-09-28,chatain,36.0,10.0,36275.0,M,master,forage,59.99,non,0,Albania;Colombia;Albania
+592,2010-05-05,blond,35.0,8.0,37143.0,M,bac,geologie,67.57,non,0,Madagascar;Philippines;China
+593,2010-11-20,brun,33.0,9.0,38129.0,F,licence,archeologie,74.14,non,1,China;Mexico;Japan
+594,2014-01-03,brun,18.0,10.0,41923.0,F,licence,detective,49.53,non,0,Philippines;Germany;China
+595,2010-06-25,blond,31.0,9.0,43237.0,M,licence,forage,74.36,oui,0,China;United States;France
+596,2011-04-15,brun,22.0,8.0,41802.0,F,licence,forage,65.63,non,0,Pakistan;Indonesia;Russia
+597,2010-05-21,roux,43.0,7.0,37466.0,M,licence,geologie,81.39,oui,0,Brazil;Lithuania;Philippines
+598,2011-08-02,blond,31.0,6.0,24928.0,F,master,geologie,106.87,non,0,Indonesia;China;China
+599,2012-05-16,blond,59.0,10.0,38734.0,M,master,forage,53.17,oui,0,Ethiopia;China;Ireland
+600,2013-10-22,brun,44.0,9.0,33993.0,F,master,forage,96.03,oui,0,Portugal;Brazil;Philippines
+601,2011-04-22,brun,38.0,14.0,33454.0,F,licence,geologie,83.68,non,0,Colombia;China;Indonesia
+602,2010-05-14,blond,45.0,3.0,31596.0,F,licence,forage,72.94,non,0,Russia;Nigeria;Georgia
+603,2010-02-13,brun,45.0,13.0,29078.0,M,master,geologie,66.84,non,0,China;Austria;Egypt
+604,2014-07-01,chatain,37.0,9.0,40178.0,F,bac,forage,75.24,non,0,China;Portugal;Sweden
+605,2010-01-06,chatain,35.0,16.0,33681.0,M,master,geologie,56.64,non,0,Indonesia;China;China
+606,2010-10-21,brun,27.0,10.0,36626.0,F,licence,geologie,91.1,non,0,France;Argentina;Norway
+607,2013-12-22,roux,44.0,10.0,32234.0,F,bac,forage,57.01,non,0,Mozambique;Moldova;Russia
+608,2014-01-22,roux,29.0,14.0,36678.0,M,bac,geologie,73.67,non,0,Poland;China;Poland
+609,2014-06-25,blond,42.0,7.0,34379.0,F,master,detective,93.19,oui,0,Honduras;Vietnam;Indonesia
+610,2010-01-09,brun,36.0,15.0,36781.0,F,licence,detective,61.84,non,0,France;Indonesia;Armenia
+611,2011-01-05,chatain,42.0,4.0,37392.0,F,master,archeologie,80.78,oui,0,China;Thailand;Bosnia and Herzegovina
+612,2010-07-19,roux,30.0,14.0,36735.0,F,bac,detective,81.91,non,0,Sweden;Philippines;China
+613,2014-04-20,chatain,46.0,14.0,34559.0,F,master,forage,80.94,non,0,Guinea;Peru;France
+614,2012-03-09,roux,31.0,5.0,42061.0,M,bac,detective,59.37,non,0,Nigeria;Indonesia;Ukraine
+615,2013-02-03,chatain,37.0,7.0,28453.0,M,doctorat,geologie,86.89,oui,0,Macedonia;China;Brazil
+616,2011-11-16,blond,28.0,5.0,25235.0,F,master,geologie,84.63,non,0,Philippines;Russia;China
+617,2013-12-23,roux,37.0,11.0,30145.0,M,licence,geologie,73.71,non,0,Japan;Serbia;Turkmenistan
+618,2013-07-09,brun,33.0,14.0,37488.0,M,master,forage,81.98,oui,0,China;China;Philippines
+619,2012-10-02,brun,50.0,15.0,35671.0,F,licence,geologie,82.94,non,0,Russia;Tunisia;China
+620,2014-01-04,chatain,30.0,12.0,41565.0,F,licence,forage,75.0,oui,0,Colombia;China;South Africa
+621,2010-09-03,brun,38.0,9.0,27300.0,F,doctorat,geologie,109.05,oui,0,Ukraine;Indonesia;Philippines
+622,2011-01-11,chatain,34.0,5.0,27076.0,F,master,forage,84.47,non,0,Russia;Greece;Iran
+623,2010-02-11,brun,33.0,15.0,40515.0,F,licence,detective,79.78,oui,0,Cameroon;Indonesia;Pakistan
+624,2014-08-11,blond,36.0,8.0,30465.0,M,doctorat,detective,109.19,oui,0,China;China;Philippines
+625,2010-05-11,brun,28.0,4.0,29599.0,M,master,geologie,71.34,non,0,Philippines;China;Uruguay
+626,2013-05-24,roux,20.0,6.0,34446.0,M,bac,geologie,71.14,non,0,Bulgaria;Palestinian Territory;China
+627,2010-04-08,chatain,27.0,13.0,42752.0,M,doctorat,forage,56.02,oui,0,Afghanistan;China;Ukraine
+628,2013-01-22,blond,38.0,7.0,30828.0,M,master,detective,87.73,oui,0,China;France;Nigeria
+629,2013-08-21,blond,45.0,7.0,32197.0,F,licence,forage,94.44,non,0,Philippines;Poland;Russia
+630,2014-11-23,chatain,54.0,8.0,39191.0,F,licence,forage,56.18,non,0,Greece;Portugal;China
+631,2012-11-23,roux,35.0,8.0,30451.0,M,master,detective,91.5,oui,0,Indonesia;Jordan;Macedonia
+632,2011-10-16,brun,44.0,9.0,39927.0,M,licence,geologie,59.12,non,0,China;Russia;Niger
+633,2011-02-14,chatain,34.0,17.0,38855.0,F,master,detective,62.19,oui,0,Russia;Honduras;Mexico
+634,2011-10-16,blond,31.0,14.0,25360.0,M,master,geologie,75.73,non,0,Pakistan;Sweden;Panama
+635,2013-07-28,brun,61.0,16.0,33535.0,M,master,forage,85.39,oui,0,China;Argentina;Yemen
+636,2014-08-25,blond,33.0,11.0,37114.0,M,licence,geologie,51.45,non,0,Fiji;China;Argentina
+637,2014-09-11,roux,44.0,11.0,27284.0,M,licence,geologie,87.4,non,0,Philippines;Ukraine;Thailand
+638,2011-11-28,brun,35.0,8.0,34426.0,M,master,geologie,97.71,oui,0,Greece;Ireland;Belarus
+639,2013-01-23,brun,,11.0,31671.0,F,licence,geologie,68.29,non,0,China;Ukraine;Venezuela
+640,2014-06-16,chatain,16.0,10.0,40406.0,F,master,archeologie,82.27,oui,0,Russia;Russia;Philippines
+641,2013-07-07,chatain,37.0,14.0,38425.0,M,master,forage,75.44,oui,0,Nicaragua;China;China
+642,2011-07-30,chatain,31.0,13.0,38876.0,F,doctorat,archeologie,82.85,oui,0,Russia;Macedonia;China
+643,2012-09-29,brun,46.0,8.0,36078.0,M,licence,geologie,52.61,non,0,Philippines;Peru;Serbia
+644,2010-12-02,chatain,54.0,10.0,38132.0,M,doctorat,geologie,62.53,oui,0,Cuba;Japan;Ethiopia
+645,2012-03-08,blond,23.0,7.0,38498.0,M,master,geologie,95.36,oui,0,Czech Republic;Indonesia;Poland
+646,2013-11-06,brun,35.0,8.0,32079.0,M,doctorat,detective,87.74,oui,0,France;China;Guam
+647,2012-10-07,chatain,21.0,11.0,32504.0,F,doctorat,forage,109.26,oui,0,Sudan;Palestinian Territory;Indonesia
+648,2011-06-24,blond,50.0,5.0,24775.0,M,doctorat,geologie,112.7,oui,0,Sweden;Mongolia;Luxembourg
+649,2013-03-02,brun,45.0,8.0,39225.0,F,bac,archeologie,73.21,non,1,China;Honduras;Japan
+650,2014-05-04,blond,41.0,15.0,33563.0,M,master,forage,94.54,oui,0,France;Russia;China
+651,2010-09-19,chatain,36.0,9.0,41394.0,F,licence,forage,77.11,non,0,Slovenia;Argentina;Sweden
+652,2013-03-30,brun,21.0,11.0,38344.0,F,licence,detective,67.72,oui,0,Indonesia;China;China
+653,2014-11-03,blond,41.0,5.0,37460.0,M,licence,forage,54.41,oui,0,Pakistan;Philippines;Czech Republic
+654,2014-10-13,roux,45.0,6.0,28482.0,F,bac,geologie,78.59,non,0,Canada;Nicaragua;Philippines
+655,2012-08-09,roux,47.0,8.0,36659.0,M,licence,forage,75.78,oui,0,Indonesia;China;Indonesia
+656,2014-11-13,roux,39.0,13.0,36421.0,M,doctorat,geologie,101.9,oui,1,Sweden;Russia;Indonesia
+657,2012-07-20,chatain,36.0,8.0,39638.0,F,bac,forage,48.56,non,0,Mexico;Germany;China
+658,2011-07-09,blond,46.0,9.0,32871.0,F,licence,archeologie,74.83,oui,0,Indonesia;China;Czech Republic
+659,2012-03-30,brun,55.0,11.0,26161.0,F,master,detective,108.31,oui,0,Indonesia;Indonesia;Philippines
+660,2013-11-29,roux,28.0,7.0,30139.0,M,licence,detective,67.29,non,0,China;Russia;Indonesia
+661,2014-10-11,blond,29.0,6.0,35083.0,M,master,,92.26,oui,0,Belarus;Brazil;Yemen
+662,2014-06-20,blond,42.0,8.0,27231.0,M,doctorat,geologie,91.51,oui,0,Netherlands;Philippines;Indonesia
+663,2014-08-09,blond,35.0,6.0,36331.0,F,bac,detective,71.28,non,0,Indonesia;Yemen;China
+664,2013-10-05,roux,33.0,7.0,28529.0,M,licence,geologie,87.23,non,0,China;Greece;Portugal
+665,2010-11-26,brun,35.0,8.0,37154.0,M,,geologie,72.34,non,0,China;Philippines;China
+666,2012-07-02,brun,20.0,10.0,37925.0,M,master,geologie,66.91,oui,1,Thailand;China;Philippines
+667,2010-12-06,brun,27.0,6.0,27381.0,M,master,geologie,69.99,non,0,Norway;Indonesia;Colombia
+668,2013-09-15,blond,44.0,9.0,40048.0,M,bac,geologie,47.66,non,0,Syria;China;China
+669,2013-10-18,chatain,25.0,10.0,40382.0,F,master,archeologie,74.53,oui,0,Philippines;Thailand;Chile
+670,2013-07-30,brun,39.0,16.0,37287.0,M,master,geologie,69.05,oui,0,Philippines;Bolivia;Indonesia
+671,2014-03-09,chatain,38.0,6.0,30691.0,F,master,forage,69.89,non,0,China;Russia;Indonesia
+672,2010-10-01,blond,43.0,6.0,25587.0,M,master,geologie,76.5,non,0,China;Haiti;Indonesia
+673,2011-06-06,chatain,43.0,11.0,39516.0,F,licence,forage,76.64,non,0,China;Guatemala;Papua New Guinea
+674,2012-06-05,blond,33.0,6.0,35353.0,F,bac,geologie,71.01,non,0,Estonia;China;Sweden
+675,,brun,54.0,6.0,34329.0,F,master,forage,107.12,oui,1,China;China;Argentina
+676,2012-05-06,chatain,40.0,13.0,38946.0,M,bac,archeologie,69.91,non,1,France;Solomon Islands;Brazil
+677,2013-09-27,brun,37.0,8.0,36355.0,F,bac,detective,72.71,non,1,Colombia;China;China
+678,2012-08-28,chatain,47.0,10.0,34062.0,F,master,geologie,41.99,non,1,Venezuela;China;Indonesia
+679,2013-09-06,brun,48.0,8.0,39954.0,M,licence,geologie,57.06,non,0,China;Vietnam;Philippines
+680,2014-09-16,brun,37.0,8.0,39917.0,F,master,detective,82.33,oui,0,China;Indonesia;France
+681,2011-01-09,chatain,53.0,7.0,29725.0,F,doctorat,geologie,105.48,oui,0,Indonesia;United States;France
+682,2010-01-30,brun,52.0,8.0,27503.0,M,doctorat,geologie,85.72,oui,0,Brazil;Venezuela;Indonesia
+683,2014-06-22,chatain,46.0,16.0,30296.0,F,master,geologie,78.83,non,0,Finland;Portugal;France
+684,2013-09-06,brun,28.0,14.0,34814.0,F,master,forage,74.65,non,1,Philippines;Russia;Bulgaria
+685,2014-12-31,roux,39.0,16.0,33198.0,M,bac,geologie,44.64,non,0,Ukraine;Indonesia;Nigeria
+686,2013-02-20,brun,29.0,6.0,29553.0,F,licence,geologie,67.67,non,0,China;Peru;Poland
+687,2011-04-30,blond,39.0,9.0,36200.0,M,licence,geologie,91.65,non,0,United States;Kenya;China
+688,2011-05-05,roux,13.0,13.0,33077.0,M,bac,geologie,96.3,non,0,China;China;Indonesia
+689,2010-03-18,brun,55.0,5.0,36769.0,F,licence,detective,66.45,non,1,France;Philippines;United States
+690,2014-09-23,blond,46.0,11.0,44393.0,F,bac,detective,42.61,non,0,China;Indonesia;Brazil
+691,2014-02-10,brun,37.0,7.0,35644.0,F,master,detective,80.56,oui,0,Uganda;China;Poland
+692,2012-05-22,blond,48.0,10.0,35737.0,F,licence,forage,87.95,non,0,Argentina;Brazil;Indonesia
+693,2012-01-15,brun,29.0,10.0,28791.0,F,doctorat,forage,115.75,oui,0,Ukraine;Indonesia;Russia
+694,2011-05-11,brun,43.0,9.0,36600.0,M,master,detective,71.12,oui,0,Kazakhstan;China;France
+695,2010-10-24,brun,26.0,10.0,34183.0,M,master,geologie,72.91,non,0,Portugal;Mexico;Cyprus
+696,2011-11-17,blond,27.0,10.0,37531.0,M,master,detective,65.85,oui,0,Philippines;United Kingdom;Japan
+697,2013-12-12,blond,35.0,5.0,34623.0,M,licence,geologie,62.22,non,0,China;South Africa;Nigeria
+698,2010-06-13,blond,32.0,7.0,33645.0,M,master,archeologie,60.75,oui,0,Indonesia;Portugal;Mexico
+699,2011-09-10,blond,32.0,9.0,37259.0,F,licence,forage,76.51,non,0,Japan;Germany;Indonesia
+700,2012-08-23,brun,23.0,11.0,35926.0,M,master,geologie,58.44,non,0,Jordan;Indonesia;Peru
+701,2013-09-20,brun,38.0,8.0,38363.0,M,licence,detective,76.09,non,1,Brazil;Philippines;Indonesia
+702,2012-04-05,brun,42.0,11.0,36277.0,M,doctorat,geologie,96.8,oui,0,Indonesia;Sudan;Poland
+703,2013-06-23,brun,36.0,8.0,42002.0,F,master,detective,96.53,oui,0,China;France;Poland
+704,2014-07-13,chatain,56.0,9.0,30996.0,F,master,detective,66.53,non,0,China;Indonesia;Uganda
+705,2013-11-08,brun,33.0,8.0,37604.0,M,master,geologie,79.17,oui,1,Portugal;China;United States
+706,2010-06-26,brun,29.0,9.0,41358.0,,master,archeologie,82.24,oui,0,China;Peru;Portugal
+707,2012-12-11,brun,35.0,13.0,33500.0,M,master,forage,92.53,oui,0,China;China;China
+708,2010-02-22,brun,38.0,13.0,40999.0,M,bac,geologie,36.63,non,0,Philippines;Indonesia;Philippines
+709,2011-08-19,chatain,20.0,10.0,33323.0,M,master,geologie,62.7,non,1,Japan;Brazil;Poland
+710,2013-08-01,chatain,33.0,5.0,33290.0,M,doctorat,forage,80.0,oui,0,Kyrgyzstan;Liberia;Indonesia
+711,2012-04-22,brun,38.0,7.0,34314.0,M,master,geologie,53.36,oui,0,Philippines;Indonesia;China
+712,2012-01-23,chatain,38.0,8.0,34104.0,F,licence,geologie,100.01,non,0,Japan;Poland;Chile
+713,2013-04-28,blond,44.0,12.0,42954.0,F,licence,detective,73.71,oui,0,Portugal;Indonesia;Iran
+714,2011-09-26,brun,31.0,11.0,37985.0,M,master,geologie,88.96,oui,0,Greece;Indonesia;China
+715,2013-03-20,brun,41.0,9.0,37556.0,F,master,detective,86.7,oui,0,Panama;China;Indonesia
+716,2013-09-21,blond,28.0,8.0,36726.0,M,licence,forage,65.29,oui,0,Serbia;Canada;Pakistan
+717,2013-08-28,chatain,42.0,11.0,27946.0,M,master,geologie,66.63,non,0,Ukraine;Russia;China
+718,2013-12-30,chatain,34.0,6.0,38442.0,F,licence,detective,53.34,non,0,China;Indonesia;Ukraine
+719,2013-04-02,chatain,38.0,10.0,39801.0,F,doctorat,detective,77.52,oui,0,Argentina;Poland;Brazil
+720,2012-06-17,chatain,37.0,13.0,40259.0,M,master,forage,80.93,oui,1,Portugal;Philippines;El Salvador
+721,2013-07-02,brun,47.0,11.0,33767.0,F,,forage,91.47,oui,0,Indonesia;Uruguay;France
+722,2013-04-10,chatain,32.0,11.0,35566.0,M,master,geologie,73.12,non,0,Indonesia;China;Haiti
+723,2011-01-03,chatain,54.0,14.0,36133.0,M,doctorat,geologie,75.37,oui,1,Russia;Portugal;China
+724,2014-10-09,blond,46.0,9.0,39873.0,M,licence,detective,86.35,oui,1,Philippines;Colombia;France
+725,2013-03-07,brun,27.0,13.0,37109.0,F,bac,archeologie,72.72,non,1,Indonesia;France;China
+726,2013-04-02,chatain,57.0,8.0,42556.0,M,master,forage,54.88,oui,0,Indonesia;China;Israel
+727,2010-12-07,blond,33.0,4.0,34953.0,F,licence,detective,80.01,non,0,Spain;France;Morocco
+728,2013-01-17,roux,44.0,9.0,31378.0,M,bac,geologie,45.38,non,0,Iran;Guatemala;Indonesia
+729,2010-12-22,chatain,39.0,12.0,42091.0,M,licence,forage,68.62,oui,0,Brazil;Nicaragua;Colombia
+730,2012-12-27,chatain,35.0,13.0,36513.0,F,master,geologie,90.43,non,0,Greece;China;France
+731,2011-01-23,brun,43.0,11.0,38127.0,M,licence,geologie,57.36,non,0,Indonesia;China;Indonesia
+732,2012-03-05,brun,43.0,10.0,30530.0,F,licence,geologie,53.84,non,0,Indonesia;Russia;Serbia
+733,2011-12-15,chatain,17.0,8.0,33691.0,M,doctorat,forage,80.87,oui,0,Israel;Sweden;Poland
+734,2011-10-26,roux,47.0,11.0,32947.0,M,licence,geologie,95.37,non,1,Mexico;Japan;Sweden
+735,2010-10-26,blond,34.0,12.0,36700.0,M,licence,geologie,83.21,non,0,Mongolia;Israel;China
+736,2011-06-24,brun,43.0,9.0,32775.0,F,master,detective,79.4,non,0,Lesotho;Philippines;Croatia
+737,2012-03-10,brun,38.0,11.0,30838.0,F,doctorat,detective,121.14,oui,0,Mexico;Indonesia;Indonesia
+738,2010-01-18,blond,31.0,9.0,36934.0,M,licence,geologie,62.88,non,0,Indonesia;France;China
+739,2011-08-15,blond,39.0,9.0,35133.0,M,master,forage,61.41,oui,0,Indonesia;Colombia;Yemen
+740,2011-12-09,blond,48.0,14.0,26661.0,M,licence,geologie,61.61,non,0,Philippines;Russia;Nigeria
+741,2011-12-24,blond,31.0,6.0,37266.0,M,master,geologie,,oui,0,Cuba;Philippines;Philippines
+742,2013-10-30,chatain,23.0,6.0,43749.0,M,master,forage,45.44,oui,0,Israel;Russia;China
+743,2013-06-30,blond,47.0,12.0,33436.0,M,licence,geologie,71.19,non,0,Philippines;Nigeria;China
+744,2014-09-02,brun,35.0,10.0,26146.0,F,licence,geologie,75.22,non,0,Vietnam;Indonesia;United States
+745,2010-05-21,blond,15.0,14.0,41414.0,F,bac,forage,73.47,non,0,Indonesia;Czech Republic;Russia
+746,2013-07-18,roux,42.0,10.0,28765.0,M,licence,forage,111.07,non,1,Ukraine;Indonesia;China
+747,2011-12-07,chatain,45.0,8.0,42109.0,F,master,archeologie,50.61,oui,0,Nepal;United States;China
+748,2013-05-30,roux,42.0,13.0,24929.0,M,licence,detective,94.88,non,1,China;Indonesia;Russia
+749,2012-07-17,blond,24.0,7.0,34323.0,M,licence,geologie,50.74,non,0,Bolivia;Philippines;Venezuela
+750,2013-02-11,chatain,48.0,13.0,33007.0,M,master,forage,85.7,oui,0,Ukraine;China;Czech Republic
+751,2010-08-22,brun,36.0,9.0,41238.0,M,licence,geologie,54.64,oui,0,Indonesia;Bhutan;China
+752,2014-12-07,brun,48.0,6.0,34497.0,M,licence,forage,46.2,non,0,Indonesia;Latvia;Indonesia
+753,2012-06-29,blond,26.0,12.0,34684.0,M,master,geologie,78.86,oui,0,Japan;China;Sweden
+754,2011-01-14,chatain,53.0,9.0,33472.0,F,master,forage,81.4,non,0,China;Finland;China
+755,2012-09-13,brun,37.0,12.0,33789.0,M,bac,geologie,49.22,non,0,China;China;Sweden
+756,2012-02-02,blond,22.0,14.0,31282.0,F,master,detective,102.98,oui,0,Germany;Russia;China
+757,2010-12-31,brun,31.0,7.0,38130.0,M,licence,geologie,70.04,non,0,Indonesia;Indonesia;Finland
+758,2012-08-24,chatain,54.0,12.0,34686.0,M,licence,archeologie,67.6,non,1,China;Latvia;Cyprus
+759,2011-07-21,brun,63.0,15.0,34793.0,F,licence,detective,80.1,non,0,China;Palestinian Territory;Peru
+760,2011-07-23,brun,40.0,,38327.0,M,master,forage,69.93,oui,0,China;China;Poland
+761,2011-09-17,blond,36.0,10.0,36280.0,M,licence,geologie,70.25,oui,0,China;Indonesia;Rwanda
+762,2012-05-03,blond,44.0,10.0,27819.0,M,master,geologie,93.81,oui,0,Kazakhstan;Indonesia;Portugal
+763,2014-10-14,brun,35.0,15.0,27912.0,F,master,forage,114.39,non,0,South Korea;Indonesia;Japan
+764,2011-01-30,chatain,35.0,13.0,25255.0,F,doctorat,geologie,86.56,non,0,Egypt;Zambia;Finland
+765,2014-06-15,brun,34.0,8.0,34923.0,F,master,detective,81.02,oui,0,Canada;United Kingdom;Syria
+766,2013-04-04,blond,36.0,13.0,35166.0,F,licence,forage,78.34,non,1,Czech Republic;China;Indonesia
+767,2010-06-12,brun,35.0,9.0,29898.0,F,licence,forage,95.18,non,0,Greece;Philippines;Poland
+768,2010-12-29,brun,25.0,8.0,37841.0,M,licence,geologie,70.77,non,0,United States;Senegal;Indonesia
+769,2011-11-24,brun,20.0,12.0,30339.0,F,,forage,107.37,oui,0,Portugal;Yemen;China
+770,2010-03-24,blond,44.0,12.0,37456.0,M,licence,detective,56.34,non,0,Portugal;Indonesia;China
+771,2014-02-12,roux,37.0,10.0,41125.0,M,master,geologie,105.38,oui,1,Luxembourg;Indonesia;China
+772,2012-04-13,chatain,36.0,12.0,45658.0,M,master,geologie,64.32,oui,0,Egypt;Brazil;Portugal
+773,2012-03-28,blond,40.0,6.0,35819.0,M,licence,geologie,55.79,non,0,France;Russia;Indonesia
+774,2013-04-09,chatain,44.0,10.0,30812.0,M,doctorat,forage,93.7,oui,0,Portugal;Philippines;Denmark
+775,2011-03-21,chatain,35.0,9.0,41207.0,M,master,forage,62.89,oui,0,Israel;Brazil;Colombia
+776,2012-07-19,brun,53.0,6.0,43838.0,M,bac,geologie,50.89,non,0,Portugal;Argentina;Iran
+777,2014-05-04,blond,35.0,8.0,38173.0,M,licence,geologie,71.68,non,0,China;China;Philippines
+778,2014-05-25,chatain,19.0,9.0,35080.0,F,doctorat,archeologie,104.07,oui,0,Nigeria;Brazil;Israel
+779,2012-11-28,blond,47.0,10.0,34915.0,F,master,detective,82.13,oui,0,Armenia;Poland;Nepal
+780,2012-09-28,blond,36.0,9.0,31216.0,F,master,archeologie,101.46,oui,0,Japan;China;Russia
+781,2012-10-04,chatain,47.0,16.0,32064.0,F,master,geologie,60.4,non,1,China;Poland;China
+782,2010-07-07,blond,36.0,13.0,38129.0,M,licence,geologie,47.31,non,0,Brazil;Honduras;Venezuela
+783,2013-09-15,brun,48.0,5.0,32169.0,M,doctorat,geologie,77.26,oui,0,Philippines;Indonesia;Kazakhstan
+784,2012-10-17,chatain,20.0,12.0,32193.0,F,master,forage,89.73,non,0,Philippines;China;Peru
+785,2012-07-30,roux,27.0,9.0,44554.0,M,licence,archeologie,70.23,oui,0,China;Chile;China
+786,2010-05-20,roux,33.0,,36080.0,M,bac,geologie,59.63,non,0,China;Brazil;China
+787,2013-02-21,blond,15.0,10.0,41647.0,M,licence,forage,66.7,oui,0,Brazil;Israel;Indonesia
+788,2011-12-11,brun,47.0,5.0,30937.0,M,master,geologie,90.3,oui,0,Indonesia;Indonesia;Philippines
+789,2013-03-28,chatain,42.0,11.0,39287.0,F,doctorat,forage,80.18,oui,0,Indonesia;Mongolia;Indonesia
+790,2012-07-06,roux,13.0,5.0,31972.0,M,licence,geologie,76.87,non,0,Argentina;Indonesia;Portugal
+791,2013-11-20,roux,49.0,13.0,39426.0,M,master,geologie,97.4,oui,1,China;China;Portugal
+792,2010-04-04,brun,19.0,11.0,31382.0,F,master,archeologie,109.53,oui,0,Colombia;Portugal;Argentina
+793,2014-06-20,roux,32.0,11.0,32526.0,F,licence,detective,97.96,non,0,Vietnam;Haiti;Indonesia
+794,2012-08-14,brun,27.0,12.0,36843.0,M,master,forage,73.12,oui,0,Albania;Sri Lanka;New Zealand
+795,2010-01-05,brun,27.0,8.0,38914.0,M,master,geologie,68.67,oui,0,China;China;Russia
+796,2013-04-02,brun,44.0,14.0,36882.0,M,master,forage,71.77,oui,0,China;Canada;Sri Lanka
+797,2014-03-26,blond,53.0,9.0,29917.0,M,licence,geologie,71.7,non,0,Iran;Greece;China
+798,2014-01-20,brun,48.0,11.0,34989.0,F,master,detective,,non,0,Syria;Canada;Sweden
+799,2013-01-16,blond,30.0,11.0,45301.0,M,licence,detective,44.13,oui,0,Saudi Arabia;Indonesia;China
+800,2011-12-22,brun,49.0,12.0,38008.0,M,master,detective,71.59,oui,0,China;Germany;Indonesia
+801,2013-05-05,brun,33.0,10.0,39141.0,M,licence,geologie,73.94,non,0,Indonesia;China;Belarus
+802,2011-02-22,blond,40.0,10.0,37766.0,M,licence,forage,74.99,oui,0,Luxembourg;Philippines;Philippines
+803,2013-09-16,brun,38.0,12.0,34428.0,F,licence,detective,56.2,non,0,Israel;China;Canada
+804,2014-07-02,brun,27.0,9.0,28735.0,M,doctorat,geologie,110.19,oui,0,Iran;Greece;Malaysia
+805,2012-10-25,brun,35.0,9.0,30002.0,M,licence,detective,76.09,non,1,Nigeria;China;China
+806,2014-11-03,roux,25.0,9.0,36703.0,M,licence,detective,87.74,oui,0,South Korea;Zambia;Indonesia
+807,2013-03-20,brun,39.0,5.0,39604.0,F,licence,forage,68.18,non,0,Philippines;Russia;Indonesia
+808,2013-10-19,brun,49.0,14.0,36782.0,M,master,geologie,75.02,oui,1,Brazil;Mali;Iran
+809,2013-09-02,brun,33.0,3.0,41508.0,M,master,detective,75.28,oui,0,Philippines;China;Marshall Islands
+810,2010-09-09,brun,44.0,12.0,27347.0,M,licence,geologie,70.37,non,0,Sudan;Chile;Czech Republic
+811,2013-04-06,roux,35.0,10.0,38480.0,M,bac,forage,46.31,non,0,United States;Democratic Republic of the Congo;China
+812,2013-05-29,roux,32.0,9.0,36572.0,F,bac,forage,73.54,,0,China;Thailand;Albania
+813,,brun,49.0,9.0,32678.0,F,licence,geologie,77.44,non,0,Australia;Indonesia;Jersey
+814,2010-07-06,chatain,19.0,11.0,30936.0,F,doctorat,forage,118.27,oui,0,United States;China;Thailand
+815,2011-11-28,roux,39.0,11.0,37192.0,M,master,geologie,104.12,oui,1,China;Israel;Poland
+816,2012-03-15,chatain,31.0,10.0,38503.0,F,licence,archeologie,65.38,non,1,Peru;France;China
+817,2010-03-19,brun,36.0,10.0,35482.0,F,doctorat,detective,99.8,oui,0,Poland;China;Philippines
+818,2013-08-16,chatain,44.0,10.0,38199.0,F,master,forage,74.62,oui,0,United States;China;Indonesia
+819,2014-01-12,blond,46.0,9.0,30890.0,F,bac,geologie,62.1,non,0,China;China;China
+820,2013-09-17,chatain,27.0,7.0,33036.0,F,doctorat,forage,102.85,oui,0,Philippines;China;Argentina
+821,2010-09-03,blond,31.0,10.0,28235.0,M,master,geologie,63.72,non,0,Brazil;China;Philippines
+822,2014-06-28,blond,33.0,10.0,28147.0,M,licence,geologie,74.34,non,0,Brazil;Namibia;Russia
+823,2012-07-30,blond,24.0,10.0,34589.0,M,licence,forage,75.93,oui,0,Indonesia;Finland;Sweden
+824,2014-06-08,brun,41.0,7.0,39076.0,F,licence,detective,68.66,oui,0,Philippines;Sweden;China
+825,2010-12-06,roux,32.0,8.0,35430.0,F,bac,forage,63.06,non,0,China;China;Mongolia
+826,2012-03-11,blond,5.0,8.0,31908.0,M,licence,geologie,95.32,non,0,Philippines;China;China
+827,2012-11-14,blond,45.0,6.0,38555.0,M,licence,forage,94.59,oui,1,Greece;Armenia;Albania
+828,2012-12-12,blond,41.0,12.0,14128.0,F,master,geologie,86.5,non,0,Portugal;Serbia;Mexico
+829,2011-02-12,brun,24.0,12.0,42847.0,F,bac,detective,46.24,non,0,Sweden;Brazil;China
+830,2013-05-27,blond,36.0,10.0,35886.0,M,licence,forage,73.4,oui,0,Mexico;China;China
+831,2013-05-19,blond,24.0,10.0,33265.0,M,master,detective,74.91,oui,0,France;Portugal;China
+832,2010-06-29,chatain,40.0,5.0,34551.0,F,licence,geologie,61.31,non,0,France;Brazil;Czech Republic
+833,2014-08-14,blond,24.0,13.0,46187.0,M,licence,geologie,37.95,oui,0,Kosovo;Sweden;France
+834,2014-11-07,brun,22.0,8.0,41935.0,M,master,geologie,74.06,oui,1,Philippines;China;Portugal
+835,2010-10-11,blond,31.0,14.0,22932.0,F,master,detective,105.66,non,0,Thailand;China;Ukraine
+836,2011-03-15,chatain,32.0,12.0,36600.0,F,licence,archeologie,65.57,non,0,Finland;China;Greece
+837,2011-07-22,brun,42.0,13.0,29612.0,F,master,geologie,79.5,non,0,Indonesia;Syria;Ireland
+838,2011-06-09,roux,48.0,11.0,29615.0,M,bac,forage,69.79,non,0,Portugal;China;Democratic Republic of the Congo
+839,2013-02-04,chatain,42.0,10.0,41960.0,M,licence,geologie,37.46,non,0,Denmark;Indonesia;China
+840,2011-01-03,blond,14.0,9.0,42546.0,M,bac,forage,60.04,non,0,Ireland;China;China
+841,2010-09-02,blond,47.0,9.0,39276.0,,licence,geologie,61.3,non,0,Czech Republic;Japan;Philippines
+842,2013-07-15,chatain,35.0,6.0,38583.0,M,master,detective,58.36,oui,0,Sweden;Syria;Netherlands
+843,2011-01-17,blond,26.0,11.0,26989.0,M,master,geologie,68.36,non,0,Peru;Azerbaijan;Palestinian Territory
+844,2011-03-26,chatain,34.0,12.0,32975.0,M,doctorat,forage,103.4,oui,0,Indonesia;Russia;Russia
+845,2012-03-07,blond,33.0,7.0,42027.0,M,bac,geologie,55.98,non,0,China;China;Finland
+846,2014-09-04,blond,,7.0,34063.0,M,master,detective,70.23,oui,0,China;China;China
+847,2010-08-08,chatain,25.0,13.0,34756.0,F,master,forage,88.72,oui,0,Macedonia;Indonesia;Russia
+848,2013-07-07,chatain,31.0,7.0,46220.0,F,licence,detective,80.13,oui,0,China;Latvia;Russia
+849,2011-08-28,blond,30.0,10.0,36462.0,F,licence,geologie,77.58,non,0,Russia;China;China
+850,2014-10-04,chatain,39.0,11.0,32342.0,F,master,geologie,83.06,non,0,China;Pakistan;Portugal
+851,2011-04-13,blond,62.0,10.0,41899.0,M,licence,forage,60.22,oui,0,Ethiopia;Brazil;Bolivia
+852,2010-10-26,brun,40.0,9.0,36744.0,F,licence,geologie,74.01,non,0,Democratic Republic of the Congo;Philippines;Czech Republic
+853,2013-02-23,blond,22.0,8.0,34176.0,M,licence,geologie,80.67,non,1,Indonesia;Madagascar;Venezuela
+854,2011-08-10,chatain,26.0,15.0,43361.0,F,licence,detective,49.07,non,0,Vanuatu;Brazil;Afghanistan
+855,2012-07-25,roux,29.0,10.0,39210.0,M,bac,forage,50.35,non,0,Japan;Argentina;Portugal
+856,2011-06-08,chatain,38.0,7.0,31339.0,F,master,archeologie,91.92,non,0,Greece;Czech Republic;Latvia
+857,2011-08-23,chatain,35.0,10.0,42115.0,F,doctorat,detective,92.7,oui,0,United States;China;Tunisia
+858,2012-02-09,brun,24.0,6.0,30295.0,F,master,geologie,90.86,non,0,Czech Republic;Indonesia;Comoros
+859,2010-07-07,brun,43.0,10.0,29632.0,M,doctorat,geologie,74.48,non,0,France;Indonesia;China
+860,2014-01-26,brun,20.0,10.0,29903.0,F,master,forage,91.0,non,0,China;Mexico;China
+861,2010-06-03,brun,49.0,10.0,41555.0,M,licence,geologie,73.1,,0,Vietnam;France;United States
+862,2013-06-23,blond,59.0,9.0,33410.0,M,bac,forage,64.84,non,0,Philippines;Slovenia;Nigeria
+863,2010-04-20,chatain,28.0,9.0,29501.0,M,doctorat,geologie,82.76,oui,0,Indonesia;Russia;China
+864,2013-11-29,blond,33.0,12.0,36456.0,M,licence,geologie,65.22,non,0,Brazil;Croatia;Russia
+865,2013-10-23,blond,35.0,7.0,44200.0,M,licence,detective,63.24,oui,0,Honduras;Peru;Philippines
+866,2011-11-05,brun,39.0,11.0,37845.0,M,licence,geologie,59.27,non,0,Argentina;Portugal;Argentina
+867,2011-04-19,blond,35.0,11.0,40106.0,M,bac,geologie,44.01,non,0,Indonesia;Greece;Ivory Coast
+868,2011-08-07,roux,6.0,16.0,44069.0,M,licence,geologie,39.72,oui,0,China;Cuba;Czech Republic
+869,2014-03-28,chatain,31.0,13.0,37188.0,F,licence,archeologie,68.16,non,1,Indonesia;Colombia;Philippines
+870,2012-07-10,roux,37.0,11.0,31982.0,M,licence,forage,85.56,oui,0,Czech Republic;Portugal;Syria
+871,2013-01-07,blond,44.0,12.0,28034.0,F,bac,geologie,66.91,non,0,Philippines;Malaysia;Palestinian Territory
+872,2013-03-29,roux,44.0,11.0,38614.0,M,master,forage,75.86,oui,0,France;China;Poland
+873,2014-12-23,brun,42.0,11.0,34942.0,M,licence,geologie,72.56,non,0,Honduras;Indonesia;Russia
+874,2010-11-16,chatain,35.0,6.0,35389.0,M,master,geologie,75.82,non,0,Oman;Indonesia;New Zealand
+875,2011-07-06,brun,33.0,7.0,42670.0,M,licence,geologie,57.59,oui,0,China;Nigeria;China
+876,2014-11-03,chatain,33.0,15.0,38176.0,F,licence,detective,66.54,non,0,Brazil;Japan;China
+877,2011-07-31,brun,45.0,12.0,34934.0,M,licence,geologie,52.76,non,0,Argentina;Iraq;Japan
+878,2014-08-23,blond,49.0,9.0,38717.0,M,licence,detective,55.91,oui,0,China;Sweden;Russia
+879,2014-05-03,blond,15.0,11.0,39952.0,M,bac,geologie,39.21,non,0,China;Serbia;Poland
+880,2010-07-24,chatain,23.0,8.0,41740.0,M,master,forage,83.51,oui,1,Mexico;China;China
+881,2012-03-06,blond,40.0,6.0,34824.0,M,licence,geologie,79.75,non,0,China;Armenia;China
+882,2010-11-03,chatain,35.0,9.0,23489.0,M,master,forage,63.07,non,1,Indonesia;Indonesia;Pakistan
+883,2012-07-22,chatain,42.0,14.0,42463.0,F,master,archeologie,84.67,oui,0,Tunisia;Brazil;United States
+884,2014-03-24,chatain,18.0,11.0,34003.0,F,master,detective,88.39,non,0,Philippines;China;China
+885,2011-10-08,brun,42.0,15.0,32084.0,M,licence,geologie,71.3,non,0,Kiribati;Philippines;Philippines
+886,2010-10-16,chatain,36.0,10.0,38319.0,M,master,geologie,76.91,non,0,Russia;Indonesia;Russia
+887,2013-07-01,chatain,49.0,10.0,33110.0,F,master,forage,,non,0,Indonesia;China;Brazil
+888,2011-11-17,chatain,41.0,11.0,41228.0,F,master,geologie,93.19,oui,0,China;Brazil;Philippines
+889,2010-08-18,blond,42.0,5.0,28641.0,F,bac,geologie,56.93,non,0,China;China;China
+890,2013-10-29,blond,43.0,9.0,36549.0,F,licence,forage,78.3,non,0,Indonesia;Sweden;Colombia
+891,2010-04-28,brun,33.0,6.0,32937.0,F,master,forage,92.65,oui,0,Palestinian Territory;Iran;New Caledonia
+892,2012-05-06,chatain,37.0,11.0,41147.0,F,master,forage,65.23,non,0,Bulgaria;Indonesia;North Korea
+893,2012-06-13,chatain,36.0,16.0,32760.0,F,doctorat,detective,93.36,oui,0,China;Philippines;Indonesia
+894,2014-11-25,blond,30.0,8.0,35715.0,M,master,geologie,75.78,oui,0,Bulgaria;Mexico;Mongolia
+895,2010-12-06,brun,50.0,6.0,33997.0,F,master,detective,83.28,oui,0,Indonesia;Myanmar;Mongolia
+896,2011-11-20,brun,29.0,14.0,34090.0,M,master,detective,70.28,oui,0,Brazil;Bosnia and Herzegovina;China
+897,2011-11-23,roux,38.0,13.0,37338.0,M,bac,geologie,49.72,non,0,Portugal;Poland;Dominican Republic
+898,2013-11-24,brun,39.0,6.0,30778.0,M,master,geologie,61.68,non,0,China;Indonesia;Japan
+899,2010-12-09,blond,48.0,13.0,36564.0,F,licence,geologie,85.21,non,0,Colombia;Thailand;China
+900,2014-02-01,chatain,35.0,7.0,25263.0,M,doctorat,geologie,97.65,non,0,Greece;Saudi Arabia;China
+901,2012-04-21,brun,62.0,12.0,44992.0,M,bac,geologie,49.65,non,0,Chile;Thailand;Thailand
+902,2010-06-25,chatain,36.0,10.0,32190.0,F,bac,archeologie,57.46,non,1,Japan;Mongolia;Indonesia
+903,2012-05-08,chatain,45.0,11.0,35517.0,M,doctorat,forage,85.75,oui,0,Barbados;Indonesia;Argentina
+904,2010-03-17,chatain,40.0,10.0,33798.0,F,master,forage,101.9,oui,0,Philippines;China;Ireland
+905,2012-10-07,blond,25.0,11.0,36012.0,M,master,geologie,71.96,oui,0,Philippines;China;Czech Republic
+906,2014-03-07,brun,51.0,10.0,43191.0,F,licence,detective,50.45,non,0,Colombia;United States;Portugal
+907,2012-11-17,blond,41.0,10.0,28875.0,F,bac,geologie,85.44,non,0,China;Sweden;Bosnia and Herzegovina
+908,2011-02-06,blond,43.0,5.0,27411.0,M,master,geologie,71.31,non,0,Colombia;Brazil;Zimbabwe
+909,2013-03-26,roux,40.0,5.0,30221.0,M,licence,geologie,69.76,non,0,Afghanistan;Ukraine;Bangladesh
+910,2014-05-31,brun,26.0,9.0,29958.0,M,master,forage,84.57,oui,0,Portugal;Philippines;Peru
+911,2011-08-06,blond,46.0,12.0,37544.0,M,master,forage,71.07,oui,0,France;Portugal;Portugal
+912,2013-11-23,blond,33.0,,31179.0,F,licence,archeologie,83.95,non,0,China;Peru;United States
+913,2012-04-16,brun,24.0,9.0,41990.0,M,licence,forage,61.8,oui,0,Kenya;Moldova;United States
+914,2010-12-09,blond,29.0,5.0,31918.0,M,licence,geologie,65.45,non,0,China;Norway;China
+915,2010-07-16,chatain,39.0,10.0,38678.0,F,licence,archeologie,65.06,non,1,Indonesia;Russia;Argentina
+916,2013-01-08,brun,26.0,4.0,41798.0,M,licence,forage,78.0,oui,0,Iraq;China;Micronesia
+917,2014-09-25,chatain,19.0,7.0,35132.0,F,doctorat,geologie,65.74,non,0,Japan;Sweden;Indonesia
+918,2010-08-17,brun,33.0,11.0,33153.0,M,master,geologie,91.56,oui,0,Angola;Philippines;France
+919,2012-08-21,blond,41.0,4.0,36804.0,M,licence,forage,69.24,non,0,Poland;Japan;China
+920,2011-03-14,brun,19.0,10.0,37864.0,M,master,geologie,57.67,oui,0,Russia;Argentina;Indonesia
+921,2011-07-01,chatain,41.0,11.0,38090.0,M,master,geologie,72.76,non,0,China;Indonesia;Indonesia
+922,2011-10-12,brun,33.0,11.0,31258.0,M,doctorat,detective,116.15,oui,0,Tanzania;Bahamas;Russia
+923,2013-02-07,roux,33.0,12.0,28027.0,F,licence,detective,108.57,oui,0,United States;China;Portugal
+924,2013-07-28,roux,35.0,9.0,40878.0,M,licence,forage,53.95,oui,0,Saudi Arabia;Vietnam;Haiti
+925,2013-07-02,blond,36.0,7.0,35236.0,M,master,geologie,66.5,oui,0,Philippines;Guatemala;Malaysia
+926,2013-09-20,chatain,27.0,9.0,40241.0,F,master,archeologie,84.5,oui,0,Sweden;Indonesia;Tajikistan
+927,2011-01-21,blond,41.0,10.0,37942.0,M,licence,forage,66.89,non,0,Philippines;China;China
+928,2014-08-16,blond,22.0,10.0,24420.0,F,master,forage,104.13,non,0,Mexico;Thailand;Poland
+929,2013-08-22,roux,38.0,13.0,36131.0,M,bac,forage,103.89,non,1,Palau;China;Indonesia
+930,2010-12-08,chatain,33.0,10.0,32421.0,M,licence,detective,63.3,non,1,Canada;Yemen;China
+931,2012-03-30,chatain,40.0,5.0,44610.0,F,master,detective,81.24,oui,0,Indonesia;Czech Republic;Italy
+932,2012-10-06,blond,26.0,10.0,29476.0,F,master,geologie,83.74,non,0,Syria;Russia;China
+933,2010-11-08,brun,36.0,9.0,30534.0,F,master,archeologie,85.93,oui,0,Vietnam;Portugal;Tanzania
+934,2013-09-25,chatain,47.0,10.0,39199.0,M,master,forage,72.07,oui,0,Russia;Thailand;Ireland
+935,2011-03-27,brun,39.0,12.0,37742.0,F,bac,geologie,71.11,non,0,Mauritius;Iran;South Africa
+936,2012-08-22,chatain,29.0,11.0,37478.0,M,licence,geologie,68.14,non,0,Canada;Bangladesh;Poland
+937,2012-12-23,blond,37.0,14.0,31807.0,M,licence,forage,79.35,non,1,China;Argentina;Dominican Republic
+938,2013-08-26,roux,50.0,12.0,33080.0,M,licence,geologie,73.95,oui,0,China;Uruguay;Czech Republic
+939,2012-10-19,blond,42.0,9.0,28325.0,M,master,forage,74.2,non,0,Portugal;Serbia;Indonesia
+940,2014-08-14,roux,44.0,10.0,37323.0,M,bac,geologie,38.59,non,0,Nigeria;Indonesia;Thailand
+941,2010-05-24,blond,24.0,11.0,43694.0,F,bac,detective,58.03,non,0,Vietnam;Micronesia;Russia
+942,2014-10-26,roux,34.0,11.0,32950.0,M,bac,forage,82.57,non,0,Thailand;South Korea;Guatemala
+943,2014-06-08,chatain,23.0,6.0,31772.0,F,master,forage,97.12,oui,0,Philippines;Czech Republic;China
+944,2014-09-27,brun,30.0,13.0,46887.0,M,bac,forage,32.47,non,0,France;Ecuador;China
+945,2014-03-18,brun,40.0,12.0,34163.0,M,licence,geologie,43.51,non,0,Indonesia;China;Indonesia
+946,2011-11-12,blond,35.0,12.0,34217.0,M,licence,geologie,74.77,non,0,China;Laos;Afghanistan
+947,2012-10-29,brun,41.0,6.0,36344.0,M,master,geologie,74.37,oui,0,Argentina;Cape Verde;China
+948,2010-10-23,chatain,56.0,9.0,36777.0,F,,geologie,55.76,non,1,China;Tanzania;Thailand
+949,2011-01-07,brun,28.0,17.0,38249.0,M,licence,forage,60.09,non,0,France;Poland;Libya
+950,2012-06-21,blond,36.0,7.0,29582.0,F,licence,geologie,85.11,non,0,Greece;Japan;Philippines
+951,2011-08-09,brun,28.0,7.0,31604.0,M,master,geologie,99.91,oui,0,Indonesia;China;China
+952,2013-03-23,chatain,28.0,15.0,33727.0,F,doctorat,detective,95.52,oui,0,Greece;Ukraine;Indonesia
+953,2012-10-11,blond,35.0,9.0,33330.0,F,licence,geologie,60.81,non,0,China;Brazil;Philippines
+954,2010-08-06,chatain,43.0,9.0,28892.0,F,doctorat,forage,98.0,oui,0,Yemen;Indonesia;China
+955,2010-03-14,chatain,34.0,10.0,32973.0,F,master,forage,56.21,non,1,El Salvador;Ireland;China
+956,2014-02-23,chatain,23.0,11.0,34629.0,M,doctorat,forage,88.95,oui,0,Indonesia;Poland;China
+957,2010-10-20,chatain,35.0,12.0,29781.0,F,master,geologie,94.16,non,0,Philippines;China;Indonesia
+958,2012-07-22,blond,45.0,11.0,29958.0,F,licence,forage,43.92,non,0,Indonesia;China;France
+959,2011-11-08,blond,56.0,5.0,32472.0,F,master,detective,90.61,oui,0,Philippines;China;Netherlands
+960,2011-04-28,blond,25.0,11.0,39885.0,M,bac,geologie,65.17,non,0,Portugal;China;Brazil
+961,2013-04-29,brun,26.0,12.0,38482.0,M,master,detective,66.92,oui,0,Cameroon;Tunisia;Czech Republic
+962,2013-05-16,roux,46.0,10.0,38226.0,M,licence,geologie,61.59,non,0,Poland;Guam;Indonesia
+963,2014-09-10,blond,43.0,14.0,29849.0,M,licence,geologie,73.9,non,0,China;China;Bulgaria
+964,2014-08-15,brun,62.0,6.0,34103.0,F,licence,geologie,87.24,non,0,Syria;Nigeria;Portugal
+965,2011-07-30,brun,35.0,6.0,37637.0,,master,forage,75.89,oui,0,Indonesia;El Salvador;Mauritius
+966,2013-09-05,blond,29.0,10.0,26640.0,M,master,geologie,104.75,non,0,China;Philippines;Georgia
+967,2012-04-25,chatain,53.0,7.0,46944.0,M,licence,forage,38.04,non,1,Mexico;Argentina;Philippines
+968,2012-10-26,roux,35.0,9.0,36474.0,M,master,geologie,103.31,oui,1,Afghanistan;China;Brazil
+969,2013-07-29,brun,36.0,7.0,38352.0,M,licence,forage,48.44,non,0,China;China;Mexico
+970,2011-10-21,brun,43.0,13.0,36541.0,M,master,archeologie,68.19,oui,0,Luxembourg;Ukraine;Poland
+971,2012-05-14,chatain,38.0,10.0,39372.0,F,master,detective,94.57,oui,0,Cameroon;China;China
+972,2013-07-30,blond,35.0,9.0,35132.0,M,licence,detective,94.01,non,1,Brazil;Finland;Namibia
+973,2014-10-01,chatain,8.0,11.0,43236.0,M,licence,detective,65.93,oui,0,China;Ukraine;China
+974,2013-02-17,chatain,51.0,15.0,37619.0,F,licence,geologie,61.32,non,0,Uzbekistan;China;China
+975,2013-05-13,brun,40.0,6.0,36666.0,M,licence,geologie,50.49,non,0,China;Colombia;Venezuela
+976,2010-03-18,chatain,34.0,8.0,49761.0,F,licence,detective,70.33,oui,0,China;Kazakhstan;Russia
+977,2012-04-18,brun,41.0,10.0,34495.0,M,licence,detective,78.78,non,1,Kyrgyzstan;Thailand;Thailand
+978,2013-08-28,brun,17.0,4.0,35285.0,F,master,detective,73.39,oui,0,Philippines;Ethiopia;Portugal
+979,2013-12-28,chatain,35.0,11.0,32321.0,F,master,archeologie,70.87,non,0,China;Indonesia;China
+980,2014-09-27,brun,34.0,4.0,36370.0,M,master,forage,70.31,oui,0,Brazil;Philippines;Portugal
+981,2011-01-26,brun,35.0,8.0,31221.0,M,master,forage,64.45,oui,0,Indonesia;France;Sweden
+982,2011-10-21,blond,50.0,4.0,43064.0,M,bac,forage,39.48,non,0,United States;Russia;Bosnia and Herzegovina
+983,2011-12-07,chatain,33.0,11.0,32366.0,F,doctorat,geologie,97.12,non,0,Ecuador;Serbia;China
+984,2010-03-18,blond,38.0,12.0,41742.0,F,master,geologie,83.76,oui,1,China;Afghanistan;Brazil
+985,2010-07-13,chatain,41.0,11.0,40575.0,F,licence,forage,49.68,non,0,Afghanistan;Mozambique;China
+986,2011-05-02,chatain,25.0,13.0,42392.0,M,master,forage,75.1,oui,0,Turkmenistan;Philippines;Portugal
+987,2010-02-17,blond,19.0,10.0,37663.0,M,bac,geologie,62.61,non,0,Laos;Peru;Czech Republic
+988,2014-01-26,blond,25.0,16.0,35647.0,M,licence,geologie,73.96,non,0,China;Indonesia;China
+989,2012-01-13,brun,33.0,10.0,35854.0,M,licence,geologie,60.21,non,0,France;United States;Indonesia
+990,2012-04-22,roux,26.0,7.0,39703.0,M,bac,geologie,61.12,non,0,Indonesia;Sweden;North Korea
+991,2014-06-17,chatain,28.0,10.0,39140.0,M,master,geologie,,oui,0,Brazil;Russia;Philippines
+992,2014-03-01,brun,15.0,10.0,40768.0,M,master,geologie,70.65,oui,0,Sweden;Indonesia;China
+993,2012-10-14,blond,51.0,9.0,33385.0,M,licence,forage,68.52,non,0,China;Ireland;France
+994,2014-01-21,brun,43.0,11.0,34283.0,F,master,detective,99.34,oui,0,Mexico;China;Ukraine
+995,2011-10-27,blond,36.0,10.0,40593.0,F,bac,geologie,57.85,non,0,Cuba;Russia;Bangladesh
+996,2012-12-21,blond,36.0,8.0,35551.0,F,bac,geologie,54.13,non,0,Georgia;Macedonia;Nepal
+997,2012-12-27,blond,38.0,9.0,31923.0,M,licence,geologie,81.02,non,0,China;Russia;Peru
+998,2013-07-07,blond,41.0,6.0,39628.0,M,master,geologie,67.78,oui,0,Philippines;China;Indonesia
+999,2013-06-21,chatain,18.0,14.0,35332.0,F,master,forage,99.63,oui,0,China;Czech Republic;Indonesia
