@@ -5,16 +5,23 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
-public class Main {
+public class Factoria {
+	
+	static List<GoldDigger> goldDiggers;
 	public static void main(String[] args) {
-		List<GoldDigger> goldDiggers = leerData("data/data.csv");
+		goldDiggers = leerData("data/data.csv");
 		for (GoldDigger goldDigger : goldDiggers) {
 			System.out.println(goldDigger);
 		}
 	}
 
+	public static int numElementos() {
+		return goldDiggers.size();
+	}
+	
 	public static List<GoldDigger> leerData(String nombreFichero) {
 		List<GoldDigger> res = new ArrayList<GoldDigger>();
 		try {
@@ -30,13 +37,13 @@ public class Main {
 				Integer num = Integer.parseInt(partes[0].trim());
 				LocalDate date = LocalDate.parse(partes[1].trim());
 				Pelo cheveux = Pelo.valueOf(partes[2].trim().toUpperCase());
-				int age = (int) Double.parseDouble(partes[3].trim());
-				int exp = (int) Double.parseDouble(partes[4].trim());
-				double salaire = Double.parseDouble(partes[5].trim());
+				Integer age = (int) Double.parseDouble(partes[3].trim());
+				Integer exp = (int) Double.parseDouble(partes[4].trim());
+				Double salaire = Double.parseDouble(partes[5].trim());
 				Sexo sexe = Sexo.valueOf(partes[6]);
 				String diplome = partes[7].trim();
 				String specialite = partes[8].trim();
-				double note = Double.parseDouble(partes[9].trim());
+				Double note = Double.parseDouble(partes[9].trim());
 				String dispo =  partes[10].trim();
 				String embauche = partes[11].trim();
 				String paises = partes[12].trim();
@@ -48,6 +55,5 @@ public class Main {
 		}
 		return res;
 	}
-	
 	
 }

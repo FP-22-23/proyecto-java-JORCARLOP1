@@ -1,9 +1,11 @@
 package fp.utiles.codigo;
 
+import java.lang.reflect.Array;
 import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
+import java.util.stream.Stream;
 
 import fp.utiles.common.Checkers;
 
@@ -12,22 +14,22 @@ public class GoldDigger implements Comparable<GoldDigger> {
 	private Integer num; //ENUMERACION
 	private LocalDate date;//FECHA SOLICITUD
 	private Pelo cheveux;//COLOR DE PELO
-	private int age;//EDAD
-	private int exp;//EXPERIENCIA LABORAL
-	private double salaire;//EXPECTATIVA DE SALARIO
+	private Integer age;//EDAD
+	private Integer exp;//EXPERIENCIA LABORAL
+	private Double salaire;//EXPECTATIVA DE SALARIO
 	private Sexo sexe;//SEXO 
 	private String diplome;//DIPLOMATURA
 	private String specialite;//ESPECIALIDAD
-	private double note;//NOTA SOBRE 100 SOBRE LA BUSQUEDA DE ORO
-	private boolean dispo;//DISPONIBILIDAD
-	private boolean embauche;//CONTRATADO
+	private Double note;//NOTA SOBRE 100 SOBRE LA BUSQUEDA DE ORO
+	private Boolean dispo;//DISPONIBILIDAD
+	private Boolean embauche;//CONTRATADO
 	private List<String> paises;//PAISES PREFERIDOS
 
 		
 	// CONSTRUCTORES
 
-	public GoldDigger(int num, LocalDate date, Pelo cheveux, int age, int exp, double salaire, Sexo sexe,
-			String diplome, String specialite, double note, String dispo, String embauche, String paises) {
+	public GoldDigger(Integer num, LocalDate date, Pelo cheveux, Integer age, Integer exp, Double salaire, Sexo sexe,
+			String diplome, String specialite, Double note, String dispo, String embauche, String paises) {
 		
 		Checkers.check("LA EXPERIENCIA NO PUEDE SER 0", exp > 0 );
 		Checkers.checkNoNull("num,cheveux");
@@ -48,7 +50,7 @@ public class GoldDigger implements Comparable<GoldDigger> {
 		this.paises = creador_lista(paises);
 	}
 
-	public GoldDigger(int num, LocalDate date, Pelo cheveux, int age) {
+	public GoldDigger(Integer num, LocalDate date, Pelo cheveux, Integer age) {
 		Checkers.check("LA EXPERIENCIA NO PUEDE SER 0", exp > 0 );
 		Checkers.checkNoNull("num");
 		Checkers.check("LA FECHA DE SOLICITUD NO PUEDE SER LA FECHA ACTUAL", date.isBefore(LocalDate.now()));
@@ -185,7 +187,7 @@ public class GoldDigger implements Comparable<GoldDigger> {
 		}
 		return resultado;
 	}
-	
+
 	private List<String> creador_lista(String paises){ //Creador del lista a partir de un String separados por punto y coma
 		String[] x_separados = paises.split(";");
 		List<String> lista = Arrays.asList(x_separados);
@@ -234,6 +236,7 @@ public class GoldDigger implements Comparable<GoldDigger> {
 	public int compareTo(GoldDigger b) {
 		return this.num.compareTo(b.num);
 	}
+
 
 }
 
